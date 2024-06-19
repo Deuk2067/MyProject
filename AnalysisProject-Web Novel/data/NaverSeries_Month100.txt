@@ -1,101 +1,101 @@
-	제목	장르	작가	평점	무협	현판	판타지	로맨스	로판
-1	화산귀환 [독점]	무협	비가	9.2	True	False	False	False	False
-2	대기업 말단이 일을 잘함 [독점]	현판	동면거북이	9.7	False	True	False	False	False
-3	2레벨로 회귀한 무신	판타지	염비	9.4	False	False	True	False	False
-4	오늘만 사는 기사 [독점]	판타지	소울풍	9.8	False	False	True	False	False
-5	사천당가의 검신급 소가주가 되었다	무협	화계火鷄	7.6	True	False	False	False	False
-6	엄마 친구 아들 관찰기 [독점]	로맨스	주해나	9.4	False	False	False	True	False
-7	마교 교주의 부군이 되었다 [독점]	무협	쥬레이	9.4	True	False	False	False	False
-8	절대회귀 [독점]	무협	장영훈	9.8	True	False	False	False	False
-9	재벌집 만렙 아들	현판	오소록	9.6	False	True	False	False	False
-10	응급 연애 동의서 [선공개]	로맨스	배사비	9.2	False	False	False	True	False
-11	설익은 재회 [선공개]	로맨스	핼쯰	9.7	False	False	False	True	False
-12	괴력 난신(怪力 亂神)	무협	한중월야	9.7	True	False	False	False	False
-13	카오스 [선공개]	로맨스	홍지우	9.6	False	False	False	True	False
-14	전지적 독자 시점	현판	싱숑	9.9	False	True	False	False	False
-15	게임 속 바바리안으로 살아남기 [독점]	판타지	정윤강	9.4	False	False	True	False	False
-16	해피엔딩은 없어 [독점]	로맨스	이다홍	9.2	False	False	False	True	False
-17	회귀자 생활백서(回歸者 生活白書)	무협	넉울히	9.3	True	False	False	False	False
-18	블레인필드의 상속자 [선공개]	로판	파도저	8.9	False	False	False	False	True
-19	아포칼립스에 집을 숨김	현판	로드워리어	9.5	False	True	False	False	False
-20	당신을 배신한 나를 구원해 줄래요 [선공개]	로판	바애	8.8	False	False	False	False	True
-21	나 혼자 탑에서 농사	현판	sdcknight	9.8	False	True	False	False	False
-22	회귀수선전(回歸修仙傳)	무협	엄청난	9.6	True	False	False	False	False
-23	날 닮은 아이 [독점]	로맨스	플아다	9.9	False	False	False	True	False
-24	폐하, 연모하니 죽음을 주세요	로판	김시모	9.4	False	False	False	False	True
-25	하녀와의 계약결혼 [독점]	로판	달새울	9.9	False	False	False	False	True
-26	하남자의 탑 공략법	판타지	꾸찌꾸찌	9.3	False	False	True	False	False
-27	북부 대공의 미친 데릴사위	판타지	곰돌이는	9.7	False	False	True	False	False
-28	현질무신 [독점]	무협	시저디	9.0	True	False	False	False	False
-29	살아남은 왕녀의 웃음 뒤에는 [선공개]	로판	아미드	9.9	False	False	False	False	True
-30	레벨 999 흑막 공녀가 되었다	로판	산소비	9.6	False	False	False	False	True
-31	천재 무림 트레이너 [독점]	무협	크루크루	9.2	True	False	False	False	False
-32	1500억을 받았다	현판	먼지운	7.6	False	True	False	False	False
-33	감히 눈을 마주치지 말 것 [독점]	로판	유세라	9.5	False	False	False	False	True
-34	김 대리는 아이돌이 싫어 [독점]	현판	퇴사연습생	9.9	False	True	False	False	False
-35	마도전생기 [독점]	무협	codezero	9.2	True	False	False	False	False
-36	교수님, 그 결혼 저랑 해요 [독점]	로맨스	루위	9.9	False	False	False	True	False
-37	겨우 강해졌는데 회귀해버림	현판	수국칼	8.5	False	True	False	False	False
-38	6,421번 빙의하고 귀환했다 [독점]	현판	B군	8.7	False	True	False	False	False
-39	남주의 아는 누나만 되려 했는데 [선공개]	로판	해꽃	8.7	False	False	False	False	True
-40	환생천마	무협	장영훈	9.6	True	False	False	False	False
-41	레벨업 하는 로그	판타지	글쟁이라떼	9.5	False	False	True	False	False
-42	디펜스 게임의 폭군이 되었다 [독점]	판타지	류은가람	9.8	False	False	True	False	False
-43	빌런의 순정[독점]	로맨스	로즈빈	9.9	False	False	False	True	False
-44	칼라디아의 늑대 [독점]	판타지	시연우	8.8	False	False	True	False	False
-45	일타강사 백사부 [독점]	무협	간짜장	9.8	True	False	False	False	False
-46	도피처에서 만난 태양 [선공개]	로맨스	유수랑	9.8	False	False	False	True	False
-47	우리 개는 안 물어요 [선공개]	로맨스	채유주	9.3	False	False	False	True	False
-48	광마회귀 [독점]	무협	유진성	9.9	True	False	False	False	False
-49	수비천재가 3점을 폭격함	현판	코다	9.4	False	True	False	False	False
-50	할배무사와 지존 손녀 [독점]	무협	일향(一向)	9.7	True	False	False	False	False
-51	제국 경비대의 망나니 소드마스터	판타지	사탕꽃	9.2	False	False	True	False	False
-52	화학천재의 비밀 투자 공식	현판	율려(律呂)	9.5	False	True	False	False	False
-53	귀향한 먼치킨의 여행방송	현판	배고픈신발	9.3	False	True	False	False	False
-54	사랑하는 나의 억압자 [독점]	로판	서사희	9.9	False	False	False	False	True
-55	전리품 공작부인 [독점]	로판	레몬개구리	9.6	False	False	False	False	True
-56	전설의 헌터, 회춘하다 [독점]	현판	BBing	9.0	False	True	False	False	False
-57	낱장의 여름 [독점]	로맨스	박영	9.5	False	False	False	True	False
-58	블랙기업조선	판타지	국뽕	9.6	False	False	True	False	False
-59	피폐물을 힐링물로 만드는 방법 [독점]	로판	황도톨	9.8	False	False	False	False	True
-60	저주받은 공작님을 위하여	로판	성하	9.8	False	False	False	False	True
-61	A.I. 닥터 [독점]	현판	한산이가	9.8	False	True	False	False	False
-62	달동네 천재 작가	현판	웨이트	9.8	False	True	False	False	False
-63	당문전	무협	제이허빈	9.4	True	False	False	False	False
-64	기프티드 (GIFTED)	현판	도서관식객	9.5	False	True	False	False	False
-65	회귀한 재벌은 미국을 사기로했다	현판	연태량	9.1	False	True	False	False	False
-66	언니, 이번 생엔 내가 왕비야 [독점]	로판	레팔진프	7.5	False	False	False	False	True
-67	운명을 보는 회사원	현판	영완(映完)	9.8	False	True	False	False	False
-68	쓰나미도 피하는 위치선정 축구천재	현판	계약직	8.1	False	True	False	False	False
-69	바스티안 [독점] [에디티드 버전]	로판	솔체	9.5	False	False	False	False	True
-70	너를 황제로 만들겠다 [독점]	로판	이뚜언	9.8	False	False	False	False	True
-71	천만년만에 귀환한 무신님	판타지	맛깔란	8.2	False	False	True	False	False
-72	짜장 한 그릇에 제갈세가 데릴사위	무협	에르훗	9.6	True	False	False	False	False
-73	천재의 신들린 게임방송 [독점]	현판	믿고보는	9.7	False	True	False	False	False
-74	국세청 망나니 [독점]	현판	동면거북이	9.6	False	True	False	False	False
-75	별을 품은 소드마스터	판타지	Q10	9.8	False	False	True	False	False
-76	블랙배저 [독점]	판타지	썬터다운	9.9	False	False	True	False	False
-77	천화서고 대공자 [독점]	무협	김현영	9.7	True	False	False	False	False
-78	시한부 천재가 살아남는 법	무협	청시소	9.6	True	False	False	False	False
-79	절대 검감(絶對 劍感) [외전포함]	무협	한중월야	9.4	True	False	False	False	False
-80	방출당한 투수가 금강불괴로 돌아옴	현판	단팥빵소년	8.4	False	True	False	False	False
-81	짙게 각인된 밤 [독점]	로맨스	임여리	9.6	False	False	False	True	False
-82	영업 천재가 되었다	현판	댄킴	9.9	False	True	False	False	False
-83	무당이 역대급 음악천재였다	현판	한꽃	9.0	False	True	False	False	False
-84	죽은 신의 성기사 [독점]	판타지	초매	9.8	False	False	True	False	False
-85	절대적 차악 [독점]	로맨스	서이영	9.3	False	False	False	True	False
-86	뒷결혼 [독점]	로맨스	김노라	9.5	False	False	False	True	False
-87	귀농했더니 국가급 거물 후배들이 몰려든다	판타지	아길론	9.5	False	False	True	False	False
-88	못 잡아먹어서 안달 [독점]	로맨스	플아다	9.9	False	False	False	True	False
-89	망한 아이돌이 천재 배우였다	현판	성운盛運	8.7	False	True	False	False	False
-90	약먹는 천재마법사	판타지	글근육	9.9	False	False	True	False	False
-91	갓 오브 블랙필드	판타지	무장	9.5	False	False	True	False	False
-92	록스타 어게인 [독점]	현판	댄킴	9.6	False	True	False	False	False
-93	재벌의 품격 [독점]	현판	서인하	9.5	False	True	False	False	False
-94	무한 리필 플레이어 [독점]	판타지	담백하	8.6	False	False	True	False	False
-95	두 번째 집착 [독점]	로맨스	강춘	9.9	False	False	False	True	False
-96	이섭의 연애 [독점]	로맨스	김언희	9.9	False	False	False	True	False
-97	탑아이돌의 막내 멤버가 되었다 [독점]	현판	강서울	9.9	False	True	False	False	False
-98	회귀자의 성공 투자법 [독점]	현판	박성호	8.4	False	True	False	False	False
-99	천마육성 시뮬레이션 [독점]	무협	조형근	8.9	True	False	False	False	False
-100	천마님 안마하신다	현판	레빗토끼	9.7	False	True	False	False	False
+,제목,장르,작가,평점,무협,판타지,현판,로맨스,로판
+1,화산귀환 [독점],무협,비가,9.2,True,False,False,False,False
+2,절대회귀 [독점],무협,장영훈,9.8,True,False,False,False,False
+3,오늘만 사는 기사 [독점],판타지,소울풍,9.8,False,True,False,False,False
+4,괴력 난신(怪力 亂神),무협,한중월야,9.7,True,False,False,False,False
+5,회귀수선전(回歸修仙傳),무협,엄청난,9.6,True,False,False,False,False
+6,전지적 독자 시점,현판,싱숑,9.9,False,False,True,False,False
+7,북부 대공의 미친 데릴사위,판타지,곰돌이는,9.7,False,True,False,False,False
+8,재벌집 만렙 아들,현판,오소록,9.6,False,False,True,False,False
+9,전직용병 재벌서자 [독점],현판,꾼밤,9.1,False,False,True,False,False
+10,날 닮은 아이 [독점],로맨스,플아다,9.9,False,False,False,True,False
+11,나 혼자 탑에서 농사,현판,sdcknight,9.8,False,False,True,False,False
+12,화학천재의 비밀 투자 공식,현판,율려(律呂),9.5,False,False,True,False,False
+13,환생천마,무협,장영훈,9.6,True,False,False,False,False
+14,게임 속 바바리안으로 살아남기 [독점],판타지,정윤강,9.4,False,True,False,False,False
+15,사랑하는 나의 억압자 [독점],로판,서사희,9.9,False,False,False,False,True
+16,천재 무림 트레이너 [독점],무협,크루크루,9.2,True,False,False,False,False
+17,가짜인데 왜 이러세요? [선공개],로판,사장님,9.5,False,False,False,False,True
+18,비틀린 나무에도 꽃은 핀다 [독점],로맨스,성하,9.7,False,False,False,True,False
+19,어떤 바람은 사람을 미치게 한다 [선공개],로판,온밤톨,9.5,False,False,False,False,True
+20,내 장례식에서 부활했다,로판,햇콩,8.4,False,False,False,False,True
+21,김 대리는 아이돌이 싫어 [독점],현판,퇴사연습생,9.9,False,False,True,False,False
+22,병약한 대공비의 남편은 기억 상실 [선공개],로판,천혜랑,8.0,False,False,False,False,True
+23,귀농했더니 국가급 거물 후배들이 몰려든다,판타지,아길론,9.5,False,True,False,False,False
+24,운명을 보는 회사원,현판,영완(映完),9.8,False,False,True,False,False
+25,먹방으로 성공하는 ‘전’ 공작부인 [독점],로판,S모씨,7.3,False,False,False,False,True
+26,낱장의 여름 [독점],로맨스,박영,9.5,False,False,False,True,False
+27,당신의 마지막은 나여야만 한다 [선공개],로판,조일구,9.6,False,False,False,False,True
+28,광마회귀 [독점],무협,유진성,9.9,True,False,False,False,False
+29,제국 경비대의 망나니 소드마스터,판타지,사탕꽃,9.2,False,True,False,False,False
+30,당신의 구원을 바라지 않는다,로판,우제,9.7,False,False,False,False,True
+31,이번 생엔 내가 죽을게 [선공개],로판,진혜이,9.4,False,False,False,False,True
+32,일타강사 백사부 [독점],무협,간짜장,9.8,True,False,False,False,False
+33,실종된 성녀가 바로 나였다 [선공개],로판,라르메,8.4,False,False,False,False,True
+34,재해급 암살자가 해방됐다 [독점],판타지,이등별,9.2,False,True,False,False,False
+35,별을 품은 소드마스터,판타지,Q10,9.8,False,True,False,False,False
+36,당문출사 [독점],무협,기혁,8.5,True,False,False,False,False
+37,당문전,무협,제이허빈,9.4,True,False,False,False,False
+38,왜 이제 와서 이래 [독점],로판,랑퀸,8.5,False,False,False,False,True
+39,디펜스 게임의 폭군이 되었다 [독점],판타지,류은가람,9.8,False,True,False,False,False
+40,짜장 한 그릇에 제갈세가 데릴사위,무협,에르훗,9.6,True,False,False,False,False
+41,마교 교주의 부군이 되었다 [독점],무협,쥬레이,9.4,True,False,False,False,False
+42,겨우 강해졌는데 회귀해버림,현판,수국칼,8.6,False,False,True,False,False
+43,슬라임 합성으로 만능 농사꾼 [독점],현판,짜빈동귀신,9.5,False,False,True,False,False
+44,천마님 안마하신다,현판,레빗토끼,9.7,False,False,True,False,False
+45,아포칼립스에 집을 숨김,현판,로드워리어,9.5,False,False,True,False,False
+46,마도전생기 [독점],무협,codezero,9.2,True,False,False,False,False
+47,서부로 간 검은머리 용병,판타지,노오력.,9.6,False,True,False,False,False
+48,바스티안 [독점] [에디티드 버전],로판,솔체,9.5,False,False,False,False,True
+49,블랙배저 [독점],판타지,썬터다운,9.9,False,True,False,False,False
+50,문제적 왕자님 [독점],로판,솔체,9.8,False,False,False,False,True
+51,이섭의 연애 [독점],로맨스,김언희,9.9,False,False,False,True,False
+52,"울어 봐, 빌어도 좋고 [독점]",로판,솔체,9.7,False,False,False,False,True
+53,어째서 부부 스캔들 [선공개],로맨스,오묘희,9.7,False,False,False,True,False
+54,비공식 연애 [독점],로맨스,차윤서,9.3,False,False,False,True,False
+55,범상한 변호사의 아공간,현판,서칸더브이,9.7,False,False,True,False,False
+56,"언니, 이번 생엔 내가 왕비야 [독점]",로판,레팔진프,7.5,False,False,False,False,True
+57,괴물 천재선수들이 날 너무 좋아함,현판,혜인태,9.7,False,False,True,False,False
+58,버려진 딸은 조용히 살지 않습니다 [선공개],로판,마곰치,9.4,False,False,False,False,True
+59,A.I. 닥터 [독점],현판,한산이가,9.8,False,False,True,False,False
+60,천화서고 대공자 [독점],무협,김현영,9.7,True,False,False,False,False
+61,불온한 집착 [선공개],로맨스,임여리,9.5,False,False,False,True,False
+62,결혼의 소실점 [선공개],로맨스,채스카,9.0,False,False,False,True,False
+63,전생혈마 [독점],현판,산천,8.8,False,False,True,False,False
+64,회귀자 생활백서(回歸者 生活白書),무협,넉울히,9.2,True,False,False,False,False
+65,시한부 천재가 살아남는 법,무협,청시소,9.6,True,False,False,False,False
+66,나노 마신(喇勞 魔神),무협,한중월야,9.3,True,False,False,False,False
+67,끝이 정해진 사이 [선공개],로맨스,은율아,9.8,False,False,False,True,False
+68,손짓에 홀려 [선공개],로맨스,초연희,9.4,False,False,False,True,False
+69,천재 흑마법사,판타지,노란커피,9.9,False,True,False,False,False
+70,몰락 끝에 네가 있다 [독점],로판,유세라,9.8,False,False,False,False,True
+71,침묵의 여름 (Träumerei) [선공개],로맨스,다하루,9.9,False,False,False,True,False
+72,첩자의 마교생활 [독점],무협,대은호,9.5,True,False,False,False,False
+73,탑아이돌의 막내 멤버가 되었다 [독점],현판,강서울,9.9,False,False,True,False,False
+74,전무님은 하룻밤이 부족하다 [독점],로맨스,한여름이었다,9.7,False,False,False,True,False
+75,현질로 S급 소드마스터,판타지,놋버,7.7,False,True,False,False,False
+76,못 잡아먹어서 안달 [독점],로맨스,플아다,9.9,False,False,False,True,False
+77,완전무결한 공작님께 [독점],로판,이현성,9.8,False,False,False,False,True
+78,블랙기업조선,판타지,국뽕,9.6,False,True,False,False,False
+79,죽은 신의 성기사 [독점],판타지,초매,9.8,False,True,False,False,False
+80,전리품 공작부인 [독점],로판,레몬개구리,9.6,False,False,False,False,True
+81,히어로가 돌아왔다 [독점],현판,쾌벌,9.1,False,False,True,False,False
+82,이 결혼의 끝은 죽음이었다 [선공개],로판,시샘달,6.9,False,False,False,False,True
+83,탐닉의 조건 [선공개],로맨스,문희,9.6,False,False,False,True,False
+84,딸기밭 [선공개],로맨스,김무이,9.7,False,False,False,True,False
+85,절대 검감(絶對 劍感) [외전포함],무협,한중월야,9.4,True,False,False,False,False
+86,숨구멍 [독점][에필로그 선공개],로맨스,오드리,9.4,False,False,False,True,False
+87,악녀의 시집살이는 즐겁다 [독점],로판,준예,9.7,False,False,False,False,True
+88,여름이었다 [선공개],로맨스,양지희,9.8,False,False,False,True,False
+89,약먹는 천재마법사,판타지,글근육,9.9,False,True,False,False,False
+90,검은 머리 영국 의사 [독점],판타지,한산이가,9.9,False,True,False,False,False
+91,현질무신 [독점],무협,시저디,9.0,True,False,False,False,False
+92,나랑 자게 될 거야 [독점],로맨스,차가울(미캉),9.6,False,False,False,True,False
+93,괴물 황녀는 진실을 원한다 [선공개],로판,송이담,9.3,False,False,False,False,True
+94,남자친구 김춘성 [선공개],로맨스,휘린,9.5,False,False,False,True,False
+95,마왕의 시녀 [선공개],로판,팔마,9.5,False,False,False,False,True
+96,유혹은 교만하게 [선공개],로맨스,문유하,9.7,False,False,False,True,False
+97,악당 가족이 독립을 반대한다 [독점],로판,이흰,9.9,False,False,False,False,True
+98,검술 명가의 대마법사 막내딸 [독점],로판,윤하월,9.8,False,False,False,False,True
+99,훔친 용이지만 반품될까요 [선공개],로판,Onmi,8.6,False,False,False,False,True
+100,"오직, 그대 [선공개]",로맨스,감나라,9.5,False,False,False,True,False
