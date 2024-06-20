@@ -1,271 +1,266 @@
-,제목,장르,작가,평점,로맨스 판타지,무협,판타지,로맨스,현대 판타지,드라마
+,제목,장르,작가,평점,로맨스 판타지,현대 판타지,무협,판타지,로맨스,드라마
 1,마론 후작,로맨스 판타지,자야,10.0,True,False,False,False,False,False
-3,흑백무제,무협,현임,9.8,False,True,False,False,False,False
-4,변경백 서자는 황제였다,판타지,기준석,10.0,False,False,True,False,False,False
-6,달빛조각사: 아빠는 전설이다,판타지,남희성,9.5,False,False,True,False,False,False
-7,천재 궁수의 스트리밍,판타지,멍멍킴,9.9,False,False,True,False,False,False
-8,멍문세가를 호령하는 아기 고양이입니다,로맨스 판타지,아울킴,9.8,True,False,False,False,False,False
-9,시한부를 즐겼을 뿐이었는데,로맨스 판타지,다나,9.9,True,False,False,False,False,False
-10,마법학교 마법사로 살아가는 법,판타지,글쓰는기계,9.9,False,False,True,False,False,False
-11,역대급 올마스터의 회귀,판타지,연이요,9.4,False,False,True,False,False,False
-12,청성마검,무협,묵공,9.0,False,True,False,False,False,False
-13,BJ악역영애,로맨스 판타지,한이림,9.9,True,False,False,False,False,False
-14,"영웅은 됐어요, 은퇴라면 몰라도",로맨스 판타지,MON쉘,9.8,True,False,False,False,False,False
-15,빙의자를 위한 특혜,로맨스 판타지,이린비,10.0,True,False,False,False,False,False
-16,무림최강 남궁세가 막내딸입니다,로맨스 판타지,공라희,9.8,True,False,False,False,False,False
-17,템빨,판타지,박새날,9.6,False,False,True,False,False,False
-18,황제와 비밀 연애 중인데 나는 그걸 몰라,로맨스 판타지,베킷,9.7,True,False,False,False,False,False
-20,"악역에 빙의했지만, 고양이나 키울래요",로맨스 판타지,찬연,9.9,True,False,False,False,False,False
-21,이제 울어도 될까요?,로맨스 판타지,유이란,9.9,True,False,False,False,False,False
-22,환생한 암살자는 검술 천재,판타지,글개미,9.8,False,False,True,False,False,False
-23,2레벨로 회귀한 무신,판타지,염비,9.4,False,False,True,False,False,False
-24,천하제일 무공교관,무협,신가,9.7,False,True,False,False,False,False
-25,일타강사 정해 세자빈 되다,로맨스,이인혜,9.7,False,False,False,True,False,False
-26,일코하는 황녀님,로맨스 판타지,양과람,9.8,True,False,False,False,False,False
-27,병아리반 헌터는 효도 중!,로맨스 판타지,밀차,9.9,True,False,False,False,False,False
-28,악녀인데 하트 받아버렸다,로맨스 판타지,주해온,8.8,True,False,False,False,False,False
-29,몰락 세가의 시한부 영약,로맨스 판타지,프리드리히,10.0,True,False,False,False,False,False
-30,1년차 만렙 매니저,현대 판타지,현신,9.7,False,False,False,False,True,False
-32,"의원, 다시 살다",무협,태선,9.9,False,True,False,False,False,False
-33,마법학교 앞점멸 천재가 되었다,판타지,은밀히,9.8,False,False,True,False,False,False
-34,데뷔 못 하면 죽는 병 걸림,현대 판타지,백덕수,10.0,False,False,False,False,True,False
-35,제암진천경,무협,유과,9.9,False,True,False,False,False,False
-36,블랙기업조선,판타지,국뽕,9.6,False,False,True,False,False,False
-37,회귀자의 보법이 너무 강함,판타지,붉닭E,8.8,False,False,True,False,False,False
-39,눈먼 공작과 약혼했다,로맨스 판타지,콩작,9.9,True,False,False,False,False,False
-41,초월자의 채널을 구독했다,판타지,두파치타파,8.9,False,False,True,False,False,False
-42,남주들의 집착보다 내 탈영이 빠르겠다,로맨스 판타지,아듀,9.9,True,False,False,False,False,False
-43,남궁세가 손녀딸의 귀환,로맨스 판타지,The eun,9.9,True,False,False,False,False,False
-44,충신은 버림받은 황자비,로맨스 판타지,보엠1800,9.6,True,False,False,False,False,False
-45,네크로맨서 학교의 소환천재,판타지,일제사격,9.7,False,False,True,False,False,False
-46,은해상단 막내아들,무협,향란,9.6,False,True,False,False,False,False
-47,돈지랄 네크로맨서,판타지,키보드만세,9.7,False,False,True,False,False,False
-48,이번 생은 우주대스타,현대 판타지,손윤,10.0,False,False,False,False,True,False
-49,닥터 최대호,현대 판타지,조석호,9.7,False,False,False,False,True,False
-50,닥터 최태수,현대 판타지,조석호,9.9,False,False,False,False,True,False
-51,일인 군단이 된 천재 신궁,판타지,신율,9.9,False,False,True,False,False,False
-52,화산천마,무협,사야객,9.3,False,True,False,False,False,False
-53,멸망한 세계의 4급 인간,판타지,외투,9.8,False,False,True,False,False,False
-54,랭커를 위한 바른 생활 안내서,로맨스 판타지,톄제,9.9,True,False,False,False,False,False
-55,야수무쌍,무협,양비,9.4,False,True,False,False,False,False
-56,국정원 요원 천재배우로 환생,현대 판타지,류연우,9.9,False,False,False,False,True,False
-57,회귀한 혈기사의 공략법,판타지,윤도진,9.3,False,False,True,False,False,False
-58,이 집안을 일으켜세우겠습니다!,현대 판타지,글로노동자,9.5,False,False,False,False,True,False
-59,고인물이 공략을 알려줌,판타지,꿀나무,9.6,False,False,True,False,False,False
-61,구천구검,무협,조진행,6.5,False,True,False,False,False,False
-62,신마대제,무협,은검,9.6,False,True,False,False,False,False
-63,미국 씹어먹는 야구 천재,현대 판타지,글생글사,9.2,False,False,False,False,True,False
-64,전생검신,무협,구로수번,9.4,False,True,False,False,False,False
-65,무한 회귀자인데 썰 푼다,판타지,신노아,9.6,False,False,True,False,False,False
-66,능력 있는 한의사가 다 고침,현대 판타지,노룽지,9.9,False,False,False,False,True,False
-67,꼬마 며느리가 다 살림!,로맨스 판타지,윤하월,9.8,True,False,False,False,False,False
-68,검술명가 막내아들,판타지,황제펭귄,9.7,False,False,True,False,False,False
-69,천재 대장장이의 게임,판타지,박민규,9.3,False,False,True,False,False,False
-70,무한의 마법사,판타지,김치우,9.8,False,False,True,False,False,False
-71,구룡전기,무협,사류라,9.5,False,True,False,False,False,False
-72,스포츠명가의 미친 피지컬 천재,현대 판타지,플라이스,9.0,False,False,False,False,True,False
-73,마존현세강림기,현대 판타지,월백,9.3,False,False,False,False,True,False
-74,회귀 경찰의 리셋 라이프,현대 판타지,한길,9.6,False,False,False,False,True,False
-75,버림받느니 버리겠습니다,로맨스 판타지,엘루앙,8.7,True,False,False,False,False,False
-76,학사신공,무협,왕위,9.3,False,True,False,False,False,False
-77,경영은 됐고 돈만 쓰고 싶습니다,현대 판타지,김태형,9.7,False,False,False,False,True,False
-78,검신급 공무원의 회귀,판타지,자리,9.5,False,False,True,False,False,False
-79,기연독식,무협,류진,9.5,False,True,False,False,False,False
-80,괴존강림,무협,해경,9.4,False,True,False,False,False,False
-82,나 혼자만 레벨업 : 라그나로크,판타지,다울,9.7,False,False,True,False,False,False
-83,이번 생은 가주가 되겠습니다,로맨스 판타지,김로아,10.0,True,False,False,False,False,False
-84,세 번 사는 악녀의 소소한 복수 플랜,로맨스 판타지,달슬,9.8,True,False,False,False,False,False
-86,던전 호텔에 오신 것을 환영합니다,로맨스 판타지,이그나르,9.9,True,False,False,False,False,False
-87,로그인 무림,무협,제로빅,9.2,False,True,False,False,False,False
-89,죽지 않는 천재 창잡이,판타지,신율,9.5,False,False,True,False,False,False
-90,얼어붙은 플레이어의 귀환,판타지,제리엠,9.9,False,False,True,False,False,False
-91,무림세가 천대받는 손녀 딸이 되었다,로맨스 판타지,마루별,9.9,True,False,False,False,False,False
-92,무신의 막내제자가 되었다,판타지,낙하산,9.8,False,False,True,False,False,False
-93,나쁜 시녀들,로맨스 판타지,자야,10.0,True,False,False,False,False,False
-94,이혼 전략,로맨스 판타지,하로제,9.8,True,False,False,False,False,False
-95,내 딸은 무공 천재,무협,유니아빠,9.8,False,True,False,False,False,False
-96,말단 사원이 너무 유능함,현대 판타지,네시십분,9.9,False,False,False,False,True,False
-97,지구식 구원자 전형,판타지,외투,9.8,False,False,True,False,False,False
-98,회귀한 천재 플레이어의 신화급 무기창조,판타지,홍아진,9.6,False,False,True,False,False,False
-99,폭군의 침방 시녀가 되었다,로맨스 판타지,주예령,9.9,True,False,False,False,False,False
-100,이세계 지구의 마기 포식자,판타지,실렝,9.3,False,False,True,False,False,False
-101,이 싸움을 끝내러 왔다,판타지,레드리프,9.3,False,False,True,False,False,False
-102,달빛조각사,판타지,남희성,9.6,False,False,True,False,False,False
-103,독식하는 재벌 3세,현대 판타지,서오,9.3,False,False,False,False,True,False
-104,회귀자의 메모장,판타지,지갑송,9.7,False,False,True,False,False,False
-105,야구는 나쁜 놈이 잘한다,현대 판타지,전율,9.5,False,False,False,False,True,False
-106,나 혼자만 무한 강화사,판타지,광어,9.1,False,False,True,False,False,False
-107,멸망급 데스나이트가 회귀함,판타지,오렌지망고,9.4,False,False,True,False,False,False
-108,불탄 사막의 모래술사,판타지,우각,9.1,False,False,True,False,False,False
-109,약먹는 천재마법사,판타지,글근육,9.8,False,False,True,False,False,False
-110,엑스트라가 너무 강함,판타지,김재한,9.8,False,False,True,False,False,False
-111,멸망급 무신의 귀환,판타지,꼬마돌,9.2,False,False,True,False,False,False
-112,"어서오세요, 힐링식당입니다",현대 판타지,봉공(鳳公),9.1,False,False,False,False,True,False
-113,이것이 법이다,현대 판타지,자카예프,9.7,False,False,False,False,True,False
-114,게임 천재 고인물의 탑 공략법,판타지,윤수하,9.8,False,False,True,False,False,False
-115,외과 의사가 된 화타,현대 판타지,박동신,9.7,False,False,False,False,True,False
-116,철혈검제,무협,김철진,9.4,False,True,False,False,False,False
-118,진화 특성으로 최강 네크로맨서,판타지,짜빈동귀신,9.4,False,False,True,False,False,False
-119,초초수련천년,무협,"임아소,한태정",9.8,False,True,False,False,False,False
-120,하오문의 절대검신,무협,정천,9.3,False,True,False,False,False,False
-121,일월무신,무협,인재,9.5,False,True,False,False,False,False
-122,우리 아빠는 천하제일인,무협,작가8호,9.3,False,True,False,False,False,False
-123,초능력무신,무협,운천룡,9.3,False,True,False,False,False,False
-125,여주가 세계를 구함,로맨스 판타지,김로아,9.9,True,False,False,False,False,False
-126,악녀라서 편하고 좋은데요?,로맨스 판타지,망고킴,10.0,True,False,False,False,False,False
-127,신데렐라는 이 멧밭쥐가 데려갑니다,로맨스 판타지,설이수,9.9,True,False,False,False,False,False
-128,삼국지 생존왕,판타지,조경래,9.9,False,False,True,False,False,False
-129,판타지 세계 속 바바리안으로 살아가기,판타지,파란영,9.6,False,False,True,False,False,False
-131,딸 바보가 되었습니다,현대 판타지,기우,9.8,False,False,False,False,True,False
-132,다크 판타지의 망캐가 되었다,판타지,서홍,9.9,False,False,True,False,False,False
-133,남궁세가 천재 외손자,무협,신랑,9.6,False,True,False,False,False,False
-134,해적들의 사랑받는 공주님,로맨스 판타지,달공방,9.8,True,False,False,False,False,False
-136,사천당가 막내딸은 천재 명의랍니다,로맨스 판타지,천지수,9.6,True,False,False,False,False,False
-137,내 인벤토리가 이상하다,판타지,시계열,9.7,False,False,True,False,False,False
-139,백작가의 망나니가 되었다,판타지,유려한,10.0,False,False,True,False,False,False
-140,악녀 부활 24시,로맨스 판타지,리사벨,9.8,True,False,False,False,False,False
-141,무공 천재의 헌터 라이프,판타지,사니풍산,9.2,False,False,True,False,False,False
-142,예고의 미술 천재가 되었다,현대 판타지,유빙(流氷),9.9,False,False,False,False,True,False
-143,삼국지 여포의 인생 시뮬레이터,판타지,회설화적호자,9.6,False,False,True,False,False,False
-144,아카데미 악당으로 살아남는 법,판타지,서광(徐光),9.0,False,False,True,False,False,False
-145,절맥검신,무협,그냥최씨,8.9,False,True,False,False,False,False
-146,바람에 흩날리는 꽃비처럼,로맨스,황지원,9.7,False,False,False,True,False,False
-147,파공검제,무협,눈매,9.5,False,True,False,False,False,False
-148,신성력은 돈으로 사겠습니다,로맨스 판타지,녹타,9.9,True,False,False,False,False,False
-149,이 3세는 악역입니다,로맨스 판타지,리샤,8.5,True,False,False,False,False,False
-151,"원작은 모르겠고, 먹고 살기도 바쁩니다",로맨스 판타지,이터늘,9.7,True,False,False,False,False,False
-152,내일의 으뜸 : 선재 업고 튀어,로맨스,김빵,9.9,False,False,False,True,False,False
-153,아카데미의 두 번 사는 네크로맨서,로맨스 판타지,그린글,9.9,True,False,False,False,False,False
-154,마탄의 사수,판타지,이수백,9.4,False,False,True,False,False,False
-155,야생검신,무협,환빈,9.6,False,True,False,False,False,False
-156,디버프 마스터,판타지,담화공,9.7,False,False,True,False,False,False
-157,저승식당,현대 판타지,형상준,9.9,False,False,False,False,True,False
-158,신귀환생,무협,보용도,9.0,False,True,False,False,False,False
-159,점괘보는 공녀님,로맨스 판타지,사이딘,9.9,True,False,False,False,False,False
-162,반월당의 기묘한 이야기,판타지,정연,10.0,False,False,True,False,False,False
-163,나 혼자만 레벨업,판타지,추공,9.9,False,False,True,False,False,False
-164,초심 잃은 아이돌을 위한 회귀 백서,현대 판타지,리벨,10.0,False,False,False,False,True,False
-165,세이렌: 악당과 계약 가족이 되었다,로맨스 판타지,설이수,10.0,True,False,False,False,False,False
-166,북천전기,무협,천봉,9.5,False,True,False,False,False,False
-167,바이올렛의 한마디,로맨스 판타지,리사벨,9.7,True,False,False,False,False,False
-168,경성 탐정 사무소,로맨스,박하민,10.0,False,False,False,True,False,False
-169,아기님 캐시로 로판 달린다,로맨스 판타지,주해온,9.8,True,False,False,False,False,False
-170,해골만 소환해도 너무 강함,판타지,지타,9.0,False,False,True,False,False,False
-171,재앙급 영웅님이 귀환하셨다,판타지,산지직송,9.9,False,False,True,False,False,False
-172,언어의 주인이란,판타지,정보석(가을bee),9.8,False,False,True,False,False,False
-173,명가의 역대급 재능천재로 환생했다,판타지,플라이스,9.7,False,False,True,False,False,False
-174,아카데미의 무기복제자,판타지,서쪽,9.8,False,False,True,False,False,False
-175,아빠가 힘을 숨김,로맨스 판타지,고은채,9.9,True,False,False,False,False,False
-176,복수는 이렇게 하는 거다,로맨스 판타지,한보연,9.8,True,False,False,False,False,False
-177,태자입희지후,로맨스,암향,10.0,False,False,False,True,False,False
-178,서라궁의 연꽃 아기님,로맨스,차파랑,9.9,False,False,False,True,False,False
-179,0살부터 슈퍼스타,현대 판타지,북그곰,9.9,False,False,False,False,True,False
-180,진짜 성녀님을 찾습니다,로맨스 판타지,리르엔,9.5,True,False,False,False,False,False
-181,갓 오브 블랙필드 : 데드라인,현대 판타지,무장,9.9,False,False,False,False,True,False
-182,의원님이 보우하사,현대 판타지,김현빈,9.9,False,False,False,False,True,False
-183,무당기협,무협,은열,9.8,False,True,False,False,False,False
-184,회귀자 멱살 잡고 데뷔합니다,현대 판타지,제르메,10.0,False,False,False,False,True,False
-185,버림받은 아기 왕녀로 환생했습니다,로맨스,빅노아,9.7,False,False,False,True,False,False
-186,악역의 엔딩은 죽음뿐,로맨스 판타지,권겨을,10.0,True,False,False,False,False,False
-187,망돌 1군 만들기 프로젝트,현대 판타지,당가약과,9.9,False,False,False,False,True,False
-188,우리 집에 갇혀버린 남주들,로맨스 판타지,김지아,9.9,True,False,False,False,False,False
-189,망나니 천재 작곡가 회귀하다,현대 판타지,글승이,9.7,False,False,False,False,True,False
-190,황금세가 장남은 천마,무협,윤신현,8.8,False,True,False,False,False,False
-191,무적혈도제,무협,한백림,9.7,False,True,False,False,False,False
-192,이레귤러 감정사의 회귀,판타지,시르베르,9.5,False,False,True,False,False,False
-193,던전 24시 찜질방,로맨스 판타지,강포스,9.8,True,False,False,False,False,False
-194,회생무사,무협,성상현,9.4,False,True,False,False,False,False
-195,말단 공무원은 출세가 하고 싶어서,로맨스 판타지,유나진,9.9,True,False,False,False,False,False
-196,악인들의 대사형,무협,"류진,권태용",9.8,False,True,False,False,False,False
-197,검술 고인물의 게임방송,판타지,전송기,9.8,False,False,True,False,False,False
-198,환생무제,무협,하현준,9.4,False,True,False,False,False,False
-199,망나니 PD 아이돌로 살아남기,현대 판타지,문찐,10.0,False,False,False,False,True,False
-200,탑에 갇혀 고인물,판타지,겨자소스,9.7,False,False,True,False,False,False
-201,남궁세가 망나니는 천마의 제자였다,무협,열곰,9.1,False,True,False,False,False,False
-202,회귀자 사용설명서,판타지,흙수저,9.8,False,False,True,False,False,False
-203,묘우천성,로맨스,겨울버들잎,10.0,False,False,False,True,False,False
-204,묵향,무협,전동조,9.0,False,True,False,False,False,False
-205,신인인데 천만배우,현대 판타지,배뿌,10.0,False,False,False,False,True,False
-206,남주의 입양딸이 되었습니다,로맨스 판타지,라티네,9.9,True,False,False,False,False,False
-207,던전 & 커맨더,판타지,현민,9.6,False,False,True,False,False,False
-208,너희들은 변호됐다,현대 판타지,백산,9.8,False,False,False,False,True,False
-209,야구단 신입이 너무 잘함,현대 판타지,모루우,9.8,False,False,False,False,True,False
-212,"연기 천재, TOP 아이돌!",현대 판타지,한결,9.9,False,False,False,False,True,False
-213,사령왕 카르나크,판타지,임경배,9.9,False,False,True,False,False,False
-214,별종,무협,글작소,9.6,False,True,False,False,False,False
-215,스카우트가 야구를 제일 잘함,현대 판타지,콤마일초,9.6,False,False,False,False,True,False
-217,소문 속 사생아 공녀가 되었는데,로맨스 판타지,으넹나무,9.6,True,False,False,False,False,False
-218,남주의 엄마가 되어버렸다,로맨스 판타지,고은채,10.0,True,False,False,False,False,False
-219,이 가문은 막내가 살립니다,로맨스 판타지,마랭,9.8,True,False,False,False,False,False
-220,두 번 사는 랭커,판타지,사도연,9.9,False,False,True,False,False,False
-222,힘을 숨겨도 공녀가 제일 강함,로맨스 판타지,설윤영,9.8,True,False,False,False,False,False
-223,회귀한 아기는 육아를 거절합니다,로맨스 판타지,김구슬,9.8,True,False,False,False,False,False
-224,"서비스 음료, 나왔습니다",드라마,노피머리,9.8,False,False,False,False,False,True
-225,악녀 언니를 구하러 온 용감한 강아지입니다,로맨스 판타지,여로은,9.9,True,False,False,False,False,False
-226,환생한 영주가 검술도 천재인데 마법까지도 잘 씀,판타지,오천광,8.9,False,False,True,False,False,False
-227,절대 실패하지 않는 아이돌의 기술,현대 판타지,동울,10.0,False,False,False,False,True,False
-228,낙향지현,무협,아크로,9.3,False,True,False,False,False,False
-229,공포게임 속 백치 영애로 살아남기,로맨스 판타지,감귤타르트,9.9,True,False,False,False,False,False
-230,아역부터 월드스타!,현대 판타지,테헤,9.9,False,False,False,False,True,False
-232,전직 망돌이 탑스타 된 썰 푼다,현대 판타지,동전파스,9.8,False,False,False,False,True,False
-233,시간을 감는 대마법사,판타지,2차자아,9.3,False,False,True,False,False,False
-235,괴식식당,판타지,메제드K,9.8,False,False,True,False,False,False
-236,사랑받는 언니가 사라진 세계,로맨스 판타지,나유혜,9.9,True,False,False,False,False,False
-237,화살표가 보여,현대 판타지,생착률95,9.7,False,False,False,False,True,False
-238,환생마신전,무협,사도연,9.6,False,True,False,False,False,False
-239,회귀자가 무공이 너무 강하다,판타지,재승,8.9,False,False,True,False,False,False
-240,명문고 EX급 조연의 리플레이,판타지,기월월,9.9,False,False,True,False,False,False
-241,시한부 단장은 레이드를 성공시킨다,판타지,글공대장,9.9,False,False,True,False,False,False
-242,저택은 봄을 기다린다,로맨스 판타지,이보라,9.5,True,False,False,False,False,False
-243,아카데미의 조령술사,판타지,철제백조,9.8,False,False,True,False,False,False
-244,만렙 영웅님께서 귀환하신다!,판타지,악마꼬리,9.8,False,False,True,False,False,False
-245,이상한데 효과적인 악녀 생활,로맨스 판타지,유나진,9.9,True,False,False,False,False,False
-246,매력 천재의 길드 매니지먼트,판타지,율무,9.8,False,False,True,False,False,False
-247,천하제일 곤륜객잔,무협,백보,9.7,False,True,False,False,False,False
-248,레스트레이드 경감이 되었다,드라마,팔숨,9.5,False,False,False,False,False,True
-250,주인공이 컨셉충이면 곤란한가요,판타지,해인설,9.9,False,False,True,False,False,False
-251,"영웅, 회귀하다",판타지,흑아인,9.9,False,False,True,False,False,False
-252,아포칼립스의 귀환기사,판타지,킹메이커,9.5,False,False,True,False,False,False
-255,그 쓰레기가 나였어요,로맨스 판타지,꿀이흐르는,9.5,True,False,False,False,False,False
-256,정령왕 엘퀴네스,판타지,이환,9.9,False,False,True,False,False,False
-257,빌어먹을 아이돌,현대 판타지,샤이나크,9.1,False,False,False,False,True,False
-258,강철의 열제,판타지,가우리,9.7,False,False,True,False,False,False
-259,수의사님! 안녕하세요?,현대 판타지,서건주,9.9,False,False,False,False,True,False
-260,천외신마,무협,무협장인,9.4,False,True,False,False,False,False
-261,악역 황녀님이 망할 기사단을 살림,로맨스 판타지,Rana,9.8,True,False,False,False,False,False
-262,낭객전기,무협,삼경우(三更雨),9.7,False,True,False,False,False,False
-263,"천재 게이머, 영웅명가에 환생하다",판타지,은밀히,9.5,False,False,True,False,False,False
-264,금발의 정령사 [개정판],로맨스 판타지,글비,9.9,True,False,False,False,False,False
-265,해골 병사는 네크로맨서가 되었다,판타지,골드바,9.6,False,False,True,False,False,False
-266,신과 함께 레벨업,판타지,흑아인,9.8,False,False,True,False,False,False
-267,SSS급 죽어야 사는 헌터,판타지,신노아,9.9,False,False,True,False,False,False
-268,곤륜마협,무협,글별자리,9.7,False,True,False,False,False,False
-269,무인이곽,무협,우각,8.2,False,True,False,False,False,False
-270,아포칼립스 판타지에서 살아남는 법,판타지,난중일기,9.4,False,False,True,False,False,False
-271,불행을 몰고 오는 천재 배우,현대 판타지,단웅,9.9,False,False,False,False,True,False
-272,악당을 바르게 키워보겠습니다,로맨스 판타지,한나비,9.8,True,False,False,False,False,False
-274,역대급 스피드의 축구천재,현대 판타지,얼음강철,9.0,False,False,False,False,True,False
-275,귀환한 천재 농부가 사는 법,판타지,바람열매,9.9,False,False,True,False,False,False
-276,악녀는 마리오네트,로맨스 판타지,한이림,9.9,True,False,False,False,False,False
-277,신수지주,무협,"문초공,오무",9.9,False,True,False,False,False,False
-279,상냥한 아이돌 리더가 되기 위한 조건,현대 판타지,김마울,9.9,False,False,False,False,True,False
-281,다섯 번째 바이탈,현대 판타지,왕벌&Dr.곰,9.8,False,False,False,False,True,False
-282,돈의 신 [완결],현대 판타지,SOKIN,7.5,False,False,False,False,True,False
-283,알고 보니 재벌 3세,현대 판타지,달빛물든,9.6,False,False,False,False,True,False
-284,태고신왕,무협,"정무흔,정현석",8.3,False,True,False,False,False,False
-285,망향무사,무협,성상현,9.6,False,True,False,False,False,False
-286,성황의 아이들,판타지,카페인나무s,9.9,False,False,True,False,False,False
-287,무신귀환록,무협,묘수,9.6,False,True,False,False,False,False
-288,막내가 뭔갈 많이 숨김,로맨스 판타지,유유니,9.9,True,False,False,False,False,False
-289,회귀자가 다 만들어줌,판타지,마교졸개,9.9,False,False,True,False,False,False
-290,회사 때려치우고 카페 합니다,현대 판타지,펩티드,9.9,False,False,False,False,True,False
-291,전설급 영웅은 아카데미 우등생,판타지,예로나,9.7,False,False,True,False,False,False
-292,종말급 귀환자는 재앙을 먹는다,판타지,귀한,9.7,False,False,True,False,False,False
-293,재능을 스캔하는 천재 배우,현대 판타지,늘문,9.3,False,False,False,False,True,False
-294,흙수저 막내아들,현대 판타지,아버지,9.8,False,False,False,False,True,False
-295,그레이트 써전,현대 판타지,수수림,9.9,False,False,False,False,True,False
-296,아도니스,로맨스 판타지,혜돌이,9.9,True,False,False,False,False,False
-297,"남편은 됐고, 돈이나 벌렵니다",로맨스 판타지,주해온,9.8,True,False,False,False,False,False
-298,용을 삼킨 마법사,판타지,일황,9.7,False,False,True,False,False,False
-299,무림오적,무협,백야,9.1,False,True,False,False,False,False
-300,최강자 공작님의 하나뿐인 손녀딸입니다,로맨스 판타지,김노랑,9.6,True,False,False,False,False,False
+2,신 내린 명품 디자이너,현대 판타지,신줏단지,9.6,False,True,False,False,False,False
+3,흑백무제,무협,현임,9.8,False,False,True,False,False,False
+4,살인귀 황태자를 교육하는 법,로맨스 판타지,구운빵,9.6,True,False,False,False,False,False
+5,천재 궁수의 스트리밍,판타지,멍멍킴,9.9,False,False,False,True,False,False
+6,마법학교 마법사로 살아가는 법,판타지,글쓰는기계,9.9,False,False,False,True,False,False
+7,역대급 올마스터의 회귀,판타지,연이요,9.4,False,False,False,True,False,False
+8,변경백 서자는 황제였다,판타지,기준석,10.0,False,False,False,True,False,False
+9,달빛조각사: 아빠는 전설이다,판타지,남희성,9.5,False,False,False,True,False,False
+10,멍문세가를 호령하는 아기 고양이입니다,로맨스 판타지,아울킴,9.8,True,False,False,False,False,False
+11,시한부를 즐겼을 뿐이었는데,로맨스 판타지,다나,9.9,True,False,False,False,False,False
+12,2레벨로 회귀한 무신,판타지,염비,9.4,False,False,False,True,False,False
+13,몰락 세가의 시한부 영약,로맨스 판타지,프리드리히,10.0,True,False,False,False,False,False
+14,초월자의 채널을 구독했다,판타지,두파치타파,8.9,False,False,False,True,False,False
+15,BJ악역영애,로맨스 판타지,한이림,9.9,True,False,False,False,False,False
+16,데뷔 못 하면 죽는 병 걸림,현대 판타지,백덕수,10.0,False,True,False,False,False,False
+17,일인 군단이 된 천재 신궁,판타지,신율,9.9,False,False,False,True,False,False
+18,템빨,판타지,박새날,9.6,False,False,False,True,False,False
+19,"악역에 빙의했지만, 고양이나 키울래요",로맨스 판타지,찬연,9.9,True,False,False,False,False,False
+20,이제 울어도 될까요?,로맨스 판타지,유이란,9.9,True,False,False,False,False,False
+21,무림최강 남궁세가 막내딸입니다,로맨스 판타지,공라희,9.8,True,False,False,False,False,False
+22,네크로맨서 학교의 소환천재,판타지,일제사격,9.7,False,False,False,True,False,False
+23,환생한 암살자는 검술 천재,판타지,글개미,9.8,False,False,False,True,False,False
+24,1년차 만렙 매니저,현대 판타지,현신,9.7,False,True,False,False,False,False
+25,빙의자를 위한 특혜,로맨스 판타지,이린비,10.0,True,False,False,False,False,False
+26,화산천마,무협,사야객,9.3,False,False,True,False,False,False
+27,마법학교 앞점멸 천재가 되었다,판타지,은밀히,9.8,False,False,False,True,False,False
+28,"영웅은 됐어요, 은퇴라면 몰라도",로맨스 판타지,MON쉘,9.8,True,False,False,False,False,False
+29,검술명가 막내아들,판타지,황제펭귄,9.7,False,False,False,True,False,False
+30,일타강사 정해 세자빈 되다,로맨스,이인혜,9.7,False,False,False,False,True,False
+31,눈먼 공작과 약혼했다,로맨스 판타지,콩작,9.9,True,False,False,False,False,False
+32,청성마검,무협,묵공,9.0,False,False,True,False,False,False
+33,블랙기업조선,판타지,국뽕,9.6,False,False,False,True,False,False
+34,악녀인데 하트 받아버렸다,로맨스 판타지,주해온,8.8,True,False,False,False,False,False
+35,천하제일 무공교관,무협,신가,9.7,False,False,True,False,False,False
+36,이 집안을 일으켜세우겠습니다!,현대 판타지,글로노동자,9.5,False,True,False,False,False,False
+37,능력 있는 한의사가 다 고침,현대 판타지,노룽지,9.9,False,True,False,False,False,False
+38,닥터 최태수,현대 판타지,조석호,9.9,False,True,False,False,False,False
+39,황제와 비밀 연애 중인데 나는 그걸 몰라,로맨스 판타지,베킷,9.7,True,False,False,False,False,False
+40,일코하는 황녀님,로맨스 판타지,양과람,9.8,True,False,False,False,False,False
+41,창천무신,무협,담호,9.5,False,False,True,False,False,False
+42,무한의 마법사,판타지,김치우,9.8,False,False,False,True,False,False
+43,학사신공,무협,왕위,9.3,False,False,True,False,False,False
+44,"의원, 다시 살다",무협,태선,9.9,False,False,True,False,False,False
+45,돈지랄 네크로맨서,판타지,키보드만세,9.7,False,False,False,True,False,False
+46,회귀한 천재 플레이어의 신화급 무기창조,판타지,홍아진,9.6,False,False,False,True,False,False
+47,남주들의 집착보다 내 탈영이 빠르겠다,로맨스 판타지,아듀,9.9,True,False,False,False,False,False
+48,무림세가 천대받는 손녀 딸이 되었다,로맨스 판타지,마루별,9.9,True,False,False,False,False,False
+49,구천구검,무협,조진행,6.5,False,False,True,False,False,False
+50,신마대제,무협,은검,9.6,False,False,True,False,False,False
+51,달빛조각사,판타지,남희성,9.6,False,False,False,True,False,False
+52,얼어붙은 플레이어의 귀환,판타지,제리엠,9.9,False,False,False,True,False,False
+53,제암진천경,무협,유과,9.9,False,False,True,False,False,False
+54,이번 생은 우주대스타,현대 판타지,손윤,10.0,False,True,False,False,False,False
+55,야수무쌍,무협,양비,9.4,False,False,True,False,False,False
+56,마법명가 차남으로 살아남는 법,판타지,자연주의,9.9,False,False,False,True,False,False
+57,악녀라서 편하고 좋은데요?,로맨스 판타지,망고킴,10.0,True,False,False,False,False,False
+58,방출되고 재능폭발,현대 판타지,예성,9.3,False,True,False,False,False,False
+59,나 혼자만 레벨업 : 라그나로크,판타지,다울,9.7,False,False,False,True,False,False
+60,천재 대장장이의 게임,판타지,박민규,9.3,False,False,False,True,False,False
+61,아기님 캐시로 로판 달린다,로맨스 판타지,주해온,9.8,True,False,False,False,False,False
+62,로그인 무림,무협,제로빅,9.2,False,False,True,False,False,False
+63,남궁세가 손녀딸의 귀환,로맨스 판타지,The eun,9.9,True,False,False,False,False,False
+64,미국 씹어먹는 야구 천재,현대 판타지,글생글사,9.2,False,True,False,False,False,False
+65,은해상단 막내아들,무협,향란,9.6,False,False,True,False,False,False
+66,회귀한 혈기사의 공략법,판타지,윤도진,9.3,False,False,False,True,False,False
+67,닥터 최대호,현대 판타지,조석호,9.7,False,True,False,False,False,False
+68,망나니 PD 아이돌로 살아남기,현대 판타지,문찐,10.0,False,True,False,False,False,False
+69,남편을 내 편으로 만드는 방법,로맨스 판타지,냥이와향신료,9.8,True,False,False,False,False,False
+70,멸망한 세계의 4급 인간,판타지,외투,9.8,False,False,False,True,False,False
+71,회귀자의 보법이 너무 강함,판타지,붉닭E,8.9,False,False,False,True,False,False
+72,우리 아빠는 천하제일인,무협,작가8호,9.3,False,False,True,False,False,False
+73,외과 의사가 된 화타,현대 판타지,박동신,9.7,False,True,False,False,False,False
+74,엑스트라가 너무 강함,판타지,김재한,9.8,False,False,False,True,False,False
+75,검신급 공무원의 회귀,판타지,자리,9.5,False,False,False,True,False,False
+76,고인물이 공략을 알려줌,판타지,꿀나무,9.6,False,False,False,True,False,False
+77,이레귤러 감정사의 회귀,판타지,시르베르,9.5,False,False,False,True,False,False
+78,다크 판타지의 망캐가 되었다,판타지,서홍,9.9,False,False,False,True,False,False
+79,백작가의 망나니가 되었다,판타지,유려한,10.0,False,False,False,True,False,False
+80,저승식당,현대 판타지,형상준,9.9,False,True,False,False,False,False
+81,경영은 됐고 돈만 쓰고 싶습니다,현대 판타지,김태형,9.7,False,True,False,False,False,False
+82,회귀했더니 입대 전날,현대 판타지,에바트리체,9.7,False,True,False,False,False,False
+83,사천당가 막내딸은 천재 명의랍니다,로맨스 판타지,천지수,9.6,True,False,False,False,False,False
+84,약먹는 천재마법사,판타지,글근육,9.8,False,False,False,True,False,False
+85,이것이 법이다,현대 판타지,자카예프,9.7,False,True,False,False,False,False
+86,세 번 사는 악녀의 소소한 복수 플랜,로맨스 판타지,달슬,9.8,True,False,False,False,False,False
+87,괴존강림,무협,해경,9.4,False,False,True,False,False,False
+88,바이올렛의 한마디,로맨스 판타지,리사벨,9.7,True,False,False,False,False,False
+89,독식하는 재벌 3세,현대 판타지,서오,9.3,False,True,False,False,False,False
+90,말단 사원이 너무 유능함,현대 판타지,네시십분,9.9,False,True,False,False,False,False
+91,죽지 않는 천재 창잡이,판타지,신율,9.5,False,False,False,True,False,False
+92,충신은 버림받은 황자비,로맨스 판타지,보엠1800,9.6,True,False,False,False,False,False
+93,픽 미 업!,판타지,헤르모드,9.9,False,False,False,True,False,False
+94,전생검신,무협,구로수번,9.4,False,False,True,False,False,False
+95,31번째 말은 게임판을 뒤엎는다,판타지,왕모찌,9.9,False,False,False,True,False,False
+96,빌어먹을 아이돌,현대 판타지,샤이나크,9.1,False,True,False,False,False,False
+97,무례한 나의 다중인격자에게,로맨스 판타지,재겸,9.9,True,False,False,False,False,False
+98,나쁜 시녀들,로맨스 판타지,자야,10.0,True,False,False,False,False,False
+99,점괘보는 공녀님,로맨스 판타지,사이딘,9.9,True,False,False,False,False,False
+100,초능력무신,무협,운천룡,9.3,False,False,True,False,False,False
+101,아빠가 힘을 숨김,로맨스 판타지,고은채,9.9,True,False,False,False,False,False
+102,나 혼자만 레벨업,판타지,추공,9.9,False,False,False,True,False,False
+103,멸망급 데스나이트가 회귀함,판타지,오렌지망고,9.4,False,False,False,True,False,False
+104,이 싸움을 끝내러 왔다,판타지,레드리프,9.3,False,False,False,True,False,False
+105,신성력은 돈으로 사겠습니다,로맨스 판타지,녹타,9.9,True,False,False,False,False,False
+106,불탄 사막의 모래술사,판타지,우각,9.1,False,False,False,True,False,False
+107,구룡전기,무협,사류라,9.5,False,False,True,False,False,False
+108,회귀 경찰의 리셋 라이프,현대 판타지,한길,9.6,False,True,False,False,False,False
+109,갓 오브 블랙필드 : 데드라인,현대 판타지,무장,9.9,False,True,False,False,False,False
+110,회귀자의 메모장,판타지,지갑송,9.7,False,False,False,True,False,False
+111,버림받느니 버리겠습니다,로맨스 판타지,엘루앙,8.7,True,False,False,False,False,False
+112,파공검제,무협,눈매,9.5,False,False,True,False,False,False
+113,만렙 닥터 리턴즈,현대 판타지,13월생,9.6,False,True,False,False,False,False
+114,야생검신,무협,환빈,9.6,False,False,True,False,False,False
+115,아카데미의 무기복제자,판타지,서쪽,9.8,False,False,False,True,False,False
+116,절대좌의 귀환,판타지,박민규,8.3,False,False,False,True,False,False
+117,여주가 세계를 구함,로맨스 판타지,김로아,9.9,True,False,False,False,False,False
+118,철혈검제,무협,김철진,9.4,False,False,True,False,False,False
+119,일월무신,무협,인재,9.5,False,False,True,False,False,False
+120,빌어먹을 환생,판타지,목마,9.8,False,False,False,True,False,False
+121,엄마가 계약결혼 했다,로맨스 판타지,시야,9.8,True,False,False,False,False,False
+122,신데렐라는 이 멧밭쥐가 데려갑니다,로맨스 판타지,설이수,9.9,True,False,False,False,False,False
+123,내 딸은 무공 천재,무협,유니아빠,9.8,False,False,True,False,False,False
+124,검마 2510호,판타지,법화,10.0,False,False,False,True,False,False
+125,예고의 미술 천재가 되었다,현대 판타지,유빙(流氷),9.9,False,True,False,False,False,False
+126,이혼 전략,로맨스 판타지,하로제,9.8,True,False,False,False,False,False
+127,전설급 영웅은 아카데미 우등생,판타지,예로나,9.7,False,False,False,True,False,False
+128,기연독식,무협,류진,9.5,False,False,True,False,False,False
+129,해골만 소환해도 너무 강함,판타지,지타,9.0,False,False,False,True,False,False
+130,악녀 부활 24시,로맨스 판타지,리사벨,9.8,True,False,False,False,False,False
+131,창황회귀,무협,단룡(斷龍),9.4,False,False,True,False,False,False
+132,레스트레이드 경감이 되었다,드라마,팔숨,9.5,False,False,False,False,False,True
+133,아기 용과 시골에서 힐링합니다,판타지,단열,9.7,False,False,False,True,False,False
+134,국정원 요원 천재배우로 환생,현대 판타지,류연우,9.9,False,True,False,False,False,False
+135,"어서오세요, 힐링식당입니다",현대 판타지,봉공(鳳公),9.1,False,True,False,False,False,False
+136,스포츠명가의 미친 피지컬 천재,현대 판타지,플라이스,9.0,False,True,False,False,False,False
+137,검술 고인물의 게임방송,판타지,전송기,9.8,False,False,False,True,False,False
+138,삼왕의 제자,판타지,가빈지,9.5,False,False,False,True,False,False
+139,진화 특성으로 최강 네크로맨서,판타지,짜빈동귀신,9.4,False,False,False,True,False,False
+140,아카데미 최약체 헌터의 사생활,판타지,소신,9.6,False,False,False,True,False,False
+141,스카우트가 야구를 제일 잘함,현대 판타지,콤마일초,9.6,False,True,False,False,False,False
+142,이번 생은 가주가 되겠습니다,로맨스 판타지,김로아,10.0,True,False,False,False,False,False
+143,판타지 세계 속 바바리안으로 살아가기,판타지,파란영,9.6,False,False,False,True,False,False
+144,망나니 천재 작곡가 회귀하다,현대 판타지,글승이,9.7,False,True,False,False,False,False
+145,아카데미의 두 번 사는 네크로맨서,로맨스 판타지,그린글,9.8,True,False,False,False,False,False
+146,싱어킹 : 천 개의 목소리,현대 판타지,박선우,8.9,False,True,False,False,False,False
+147,크툴루 게임 속 천재 마법사가 되었다,판타지,귀한자식,9.9,False,False,False,True,False,False
+148,폭군의 침방 시녀가 되었다,로맨스 판타지,주예령,9.9,True,False,False,False,False,False
+149,시한부를 즐겼을 뿐이었는데 [단행본],로맨스 판타지,다나,10.0,True,False,False,False,False,False
+150,금발의 정령사 [개정판],로맨스 판타지,글비,9.9,True,False,False,False,False,False
+151,무한 회귀자인데 썰 푼다,판타지,신노아,9.6,False,False,False,True,False,False
+152,천외신마,무협,무협장인,9.4,False,False,True,False,False,False
+153,악성 멤버가 돌아왔다!,현대 판타지,무농약홈런,9.9,False,True,False,False,False,False
+154,해적들의 사랑받는 공주님,로맨스 판타지,달공방,9.8,True,False,False,False,False,False
+155,이세계 지구의 마기 포식자,판타지,실렝,9.3,False,False,False,True,False,False
+156,탑에 갇혀 고인물,판타지,겨자소스,9.7,False,False,False,True,False,False
+157,여주인공에게 내 몸을 빼앗겼다,로맨스 판타지,정마카롱,10.0,True,False,False,False,False,False
+158,후회 남주를 위한 흥신소 절찬 영업 중!,로맨스 판타지,몬짹짹,9.9,True,False,False,False,False,False
+159,반월당의 기묘한 이야기,판타지,정연,10.0,False,False,False,True,False,False
+160,이상한데 효과적인 악녀 생활,로맨스 판타지,유나진,9.9,True,False,False,False,False,False
+161,하오문의 절대검신,무협,정천,9.3,False,False,True,False,False,False
+162,이세계의 드루이드가 되었다,판타지,짜햄,9.8,False,False,False,True,False,False
+163,쉬고 싶은 레이디,로맨스 판타지,유인(流人),9.9,True,False,False,False,False,False
+164,고금제일록,무협,묘수,9.0,False,False,True,False,False,False
+165,병아리반 헌터는 효도 중!,로맨스 판타지,밀차,9.9,True,False,False,False,False,False
+166,신귀환생,무협,보용도,9.0,False,False,True,False,False,False
+167,별종,무협,글작소,9.6,False,False,True,False,False,False
+168,검빨로 레벨업,판타지,메켄로,9.9,False,False,False,True,False,False
+169,사령왕 카르나크,판타지,임경배,9.9,False,False,False,True,False,False
+170,전생자,판타지,나민채,9.8,False,False,False,True,False,False
+171,버림받고 즐기는 소박한 독신의 삶,로맨스 판타지,박귀리,10.0,True,False,False,False,False,False
+172,매력 천재의 길드 매니지먼트,판타지,율무,9.8,False,False,False,True,False,False
+173,화산전생,무협,정준,9.7,False,False,True,False,False,False
+174,짜릿한 회귀로 역대급 재벌!,현대 판타지,강바기,9.3,False,True,False,False,False,False
+175,망돌 1군 만들기 프로젝트,현대 판타지,당가약과,9.9,False,True,False,False,False,False
+176,천재 올 마스터의 귀환,판타지,천화s,9.1,False,False,False,True,False,False
+177,금손 아기님이 전부 다 고침!,로맨스 판타지,하이마이디어,9.5,True,False,False,False,False,False
+178,초초수련천년,무협,"임아소,한태정",9.8,False,False,True,False,False,False
+179,꼬마 며느리가 다 살림!,로맨스 판타지,윤하월,9.8,True,False,False,False,False,False
+180,음악천재의 힐링 라이프,현대 판타지,라모,10.0,False,True,False,False,False,False
+181,야구는 나쁜 놈이 잘한다,현대 판타지,전율,9.5,False,True,False,False,False,False
+182,말단 공무원은 출세가 하고 싶어서,로맨스 판타지,유나진,9.9,True,False,False,False,False,False
+183,명문고 EX급 조연의 리플레이,판타지,기월월,9.9,False,False,False,True,False,False
+184,친구끼리 이러는 거 아니야,로맨스 판타지,쟈화,9.9,True,False,False,False,False,False
+185,의원님이 보우하사,현대 판타지,김현빈,9.9,False,True,False,False,False,False
+186,신마의선,무협,"권태용,악산",9.8,False,False,True,False,False,False
+187,환생무제,무협,하현준,9.4,False,False,True,False,False,False
+188,리라이프 에이전트,현대 판타지,강동호,9.2,False,True,False,False,False,False
+189,절맥검신,무협,그냥최씨,8.9,False,False,True,False,False,False
+190,북천전기,무협,천봉,9.5,False,False,True,False,False,False
+191,사자의 제국,판타지,K.석우,8.9,False,False,False,True,False,False
+192,합체기갑 용신병 [완결],판타지,산호초,9.3,False,False,False,True,False,False
+193,왕은 길 위에서 태어난다,로맨스 판타지,이보라,10.0,True,False,False,False,False,False
+194,SSS급 죽어야 사는 헌터,판타지,신노아,9.9,False,False,False,True,False,False
+195,악역의 엔딩은 죽음뿐,로맨스 판타지,권겨을,10.0,True,False,False,False,False,False
+196,"한날한시에 죽어요, 누나",로맨스 판타지,라티네,9.8,True,False,False,False,False,False
+197,이혼 전 무한 캐시백 당첨,현대 판타지,닥훈,9.6,False,True,False,False,False,False
+198,"영웅, 회귀하다",판타지,흑아인,9.9,False,False,False,True,False,False
+199,태자입희지후,로맨스,암향,10.0,False,False,False,False,True,False
+200,이미 한 번 망하고 왔습니다,판타지,은솔나래,9.1,False,False,False,True,False,False
+201,재능을 스캔하는 천재 배우,현대 판타지,늘문,9.3,False,True,False,False,False,False
+202,악역 황녀님이 망할 기사단을 살림,로맨스 판타지,Rana,9.8,True,False,False,False,False,False
+203,무당기협,무협,은열,9.8,False,False,True,False,False,False
+204,전생자는 무결점 재능천재,판타지,쏭범,9.7,False,False,False,True,False,False
+205,환생마신전,무협,사도연,9.6,False,False,True,False,False,False
+206,삼국지 여포의 인생 시뮬레이터,판타지,회설화적호자,9.6,False,False,False,True,False,False
+207,알고 보니 재벌 3세,현대 판타지,달빛물든,9.6,False,True,False,False,False,False
+208,재능만렙 플레이어,판타지,비츄,9.5,False,False,False,True,False,False
+209,남주의 입양딸이 되었습니다,로맨스 판타지,라티네,9.9,True,False,False,False,False,False
+210,일념영원,무협,이근,8.8,False,False,True,False,False,False
+211,악녀님이 남자인 걸 나만 몰라,로맨스 판타지,백단,9.8,True,False,False,False,False,False
+212,방송천재 막내작가,현대 판타지,유빙(流氷),9.9,False,True,False,False,False,False
+213,귀환한 마신은 만렙 플레이어,판타지,소해현,9.2,False,False,False,True,False,False
+214,태고신왕,무협,"정무흔,정현석",8.3,False,False,True,False,False,False
+215,천재 아이돌인데 패시브가 개복치,현대 판타지,에츠,9.9,False,True,False,False,False,False
+216,아기는 악당을 키운다,로맨스 판타지,리샤,9.9,True,False,False,False,False,False
+217,버림받은 아기 왕녀로 환생했습니다,로맨스,빅노아,9.7,False,False,False,False,True,False
+218,황금세가 장남은 천마,무협,윤신현,8.8,False,False,True,False,False,False
+219,돈과 재능이 쏟아져,현대 판타지,더 페이서,9.8,False,True,False,False,False,False
+220,테이밍 마스터,판타지,박태석,9.6,False,False,False,True,False,False
+221,Dr. 신선한 : 미래를 보는 의사,현대 판타지,전작가&윤D,9.9,False,True,False,False,False,False
+222,다섯 번째 바이탈,현대 판타지,왕벌&Dr.곰,9.8,False,True,False,False,False,False
+223,가짜 아내에게 왜 집착하세요?,로맨스 판타지,DD,9.9,True,False,False,False,False,False
+224,왕따 그만두고 천재합니다,현대 판타지,자론상이,10.0,False,True,False,False,False,False
+225,검신검마,무협,서하,9.5,False,False,True,False,False,False
+226,배우로서 살겠다,현대 판타지,고광(高光),9.6,False,True,False,False,False,False
+227,"기억 상실증에 걸린 척했는데, 폭군에게 들켜버렸다",로맨스 판타지,카루목,9.8,True,False,False,False,False,False
+228,전신의 새벽 : 프렐류드,현대 판타지,요삼,9.9,False,True,False,False,False,False
+229,6년 만에 신혼,로맨스,윤단짠,9.8,False,False,False,False,True,False
+230,멸망급 무신의 귀환,판타지,꼬마돌,9.2,False,False,False,True,False,False
+231,밥만 먹고 레벨업,판타지,박민규,9.8,False,False,False,True,False,False
+232,무공 천재의 헌터 라이프,판타지,사니풍산,9.2,False,False,False,True,False,False
+233,남주의 엄마가 되어버렸다,로맨스 판타지,고은채,10.0,True,False,False,False,False,False
+234,다시 태어난 야구 천재,현대 판타지,소구장,9.6,False,True,False,False,False,False
+235,휘영검전,무협,도필,9.7,False,False,True,False,False,False
+236,천하제일 곤륜객잔,무협,백보,9.7,False,False,True,False,False,False
+237,진짜 성녀님을 찾습니다,로맨스 판타지,리르엔,9.5,True,False,False,False,False,False
+238,회귀한 아기는 육아를 거절합니다,로맨스 판타지,김구슬,9.8,True,False,False,False,False,False
+239,초월급 천재 소환사로 귀환했다,판타지,우림,9.7,False,False,False,True,False,False
+240,아카데미 속 발암캐가 되었다,판타지,리따이영,9.7,False,False,False,True,False,False
+241,망황기,무협,주홍지,9.8,False,False,True,False,False,False
+242,대공가에 입양된 성녀님,로맨스 판타지,송이바,9.8,True,False,False,False,False,False
+243,연성하는 영주님,판타지,시인단테,10.0,False,False,False,True,False,False
+244,검신학사,무협,곤우,9.2,False,False,True,False,False,False
+245,천재 아이돌의 2회차 무대,현대 판타지,E날다람주i,9.7,False,True,False,False,False,False
+246,회귀자 멱살 잡고 데뷔합니다,현대 판타지,제르메,10.0,False,True,False,False,False,False
+247,레벨 999 흑막 공녀가 되었다,로맨스 판타지,산소비,9.9,True,False,False,False,False,False
+248,암흑가의 후계자는 치트 플레이어,판타지,가빈지,9.6,False,False,False,True,False,False
+249,공작가에는 미친개가 산다,판타지,판미손,9.8,False,False,False,True,False,False
+250,검공가에 환생한 검제,판타지,메켄로,9.3,False,False,False,True,False,False
+251,바람에 흩날리는 꽃비처럼,로맨스,황지원,9.8,False,False,False,False,True,False
+252,모용세가의 사라진 딸이 돌아왔다,로맨스 판타지,홍세우,9.8,True,False,False,False,False,False
+253,마왕을 죽였다. 실수였다.,판타지,박루트,9.7,False,False,False,True,False,False
+254,지구식 구원자 전형,판타지,외투,9.8,False,False,False,True,False,False
+255,악녀는 마리오네트,로맨스 판타지,한이림,9.9,True,False,False,False,False,False
+256,뇌룡검제,무협,do군,9.0,False,False,True,False,False,False
+257,숲의 종족 클로네,판타지,이환,9.8,False,False,False,True,False,False
+258,각성 빼고 다 합니다,판타지,흑당,9.1,False,False,False,True,False,False
+259,악당을 바르게 키워보겠습니다,로맨스 판타지,한나비,9.8,True,False,False,False,False,False
+260,나 혼자만 무한 강화사,판타지,광어,9.1,False,False,False,True,False,False
+261,황녀가 깽판 침,로맨스 판타지,박귀리,9.9,True,False,False,False,False,False
+262,회귀자의 증권사 생활,현대 판타지,유재무,9.6,False,True,False,False,False,False
+263,이혼 후 코인 대박,현대 판타지,어둠의Dark,9.2,False,True,False,False,False,False
+264,명가의 역대급 재능천재로 환생했다,판타지,플라이스,9.7,False,False,False,True,False,False
+265,0.0000001%의 마왕님,판타지,파란영,9.9,False,False,False,True,False,False

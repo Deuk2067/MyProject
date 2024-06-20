@@ -1,201 +1,201 @@
-,제목,장르,작가,지수,현대판타지,판타지,무협,대체역사,퓨전,스포츠,드라마,로맨스,게임,전쟁·밀리터리,일반소설
-1,하남자의 탑 공략법,"현대판타지, 퓨전",꾸찌꾸찌,5851110,True,False,False,False,True,False,False,False,False,False,False
-2,용사의 발라드,판타지,도동파,3590670,False,True,False,False,False,False,False,False,False,False,False
-3,방구석 저격수.,"현대판타지, 퓨전",캡슐호텔,2947560,True,False,False,False,True,False,False,False,False,False,False
-4,회귀수선전(回歸修仙傳),"무협, 퓨전",엄청난,2786030,False,False,True,False,True,False,False,False,False,False,False
-5,범상한 변호사의 아공간,현대판타지,서칸더브이,2596470,True,False,False,False,False,False,False,False,False,False,False
-6,탑 매니지먼트,현대판타지,장우산,2426220,True,False,False,False,False,False,False,False,False,False,False
-7,미혼부 AI로 세상을 지배하다,"현대판타지, 퓨전",소보로설,2300410,True,False,False,False,True,False,False,False,False,False,False
-8,차라리 빌런으로 살겠다,"현대판타지, 드라마",서인하,1991260,True,False,False,False,False,False,True,False,False,False,False
-9,이상적 연출생활백서,"현대판타지, 드라마",자경(蔗境),1870810,True,False,False,False,False,False,True,False,False,False,False
-10,약먹는 천재마법사,"현대판타지, 판타지",글근육,1798010,True,True,False,False,False,False,False,False,False,False,False
-11,"로큰롤, 발 없는 새가 되다","현대판타지, 판타지",경우勁雨,1570980,True,True,False,False,False,False,False,False,False,False,False
-12,북부 대공의 미친 데릴사위,"판타지, 퓨전",곰돌이는,1471810,False,True,False,False,True,False,False,False,False,False,False
-13,화약고 제국의 천재 대공,"대체역사, 판타지",시작의바다,1432620,False,True,False,True,False,False,False,False,False,False,False
-14,세상에 나쁜 영애는 없다,"판타지, 로맨스",코리타,1382920,False,True,False,False,False,False,False,True,False,False,False
-15,시간을 달리는 소설가,"현대판타지, 판타지",피아조아,1333910,True,True,False,False,False,False,False,False,False,False,False
-16,아포칼립스에 집을 숨김,"현대판타지, 퓨전",로드워리어,1332610,True,False,False,False,True,False,False,False,False,False,False
-17,호콴의 도서관,"판타지, 퓨전",쿠우울,1331860,False,True,False,False,True,False,False,False,False,False,False
-18,블랙기업조선,"대체역사, 퓨전",국뽕,1273360,False,False,False,True,True,False,False,False,False,False,False
-19,글러먹은 빙의,"퓨전, 판타지",목마,1269240,False,True,False,False,True,False,False,False,False,False,False
-20,EX급 절대반지를 얻었다,"퓨전, 현대판타지",김현준™,1254960,True,False,False,False,True,False,False,False,False,False,False
-21,회사원이 너무 강함,"현대판타지, 스포츠",블루티풀,1184900,True,False,False,False,False,True,False,False,False,False,False
-22,화학천재의 비밀 투자 공식,"현대판타지, 판타지",율려(律呂),1140360,True,True,False,False,False,False,False,False,False,False,False
-23,삼국지 : 내가 영웅의 그릇인가.,"대체역사, 퓨전",엠보돌,1092700,False,False,False,True,True,False,False,False,False,False,False
-24,웰컴 투 NBA,"스포츠, 현대판타지",필리포스,1091520,True,False,False,False,False,True,False,False,False,False,False
-25,공물 바치고 대마법사,"판타지, 퓨전",낭선,1052880,False,True,False,False,True,False,False,False,False,False,False
-26,EX급 창고를 얻었다,"판타지, 게임",한손검,1046310,False,True,False,False,False,False,False,False,True,False,False
-27,탐관오리가 상태창을 숨김,"대체역사, 퓨전",코락스,1027490,False,False,False,True,True,False,False,False,False,False,False
-28,러스트 [ RUST ],"현대판타지, 판타지",글라딘,1017850,True,True,False,False,False,False,False,False,False,False,False
-29,슈팅 궤적이 다 보임,"스포츠,현대판타지",닥터암,1011550,True,False,False,False,False,True,False,False,False,False,False
-30,회귀했는데 세상이 안 망함,"현대판타지,판타지",선우(仙宇),954860,True,True,False,False,False,False,False,False,False,False,False
-31,방출당한 투수가 금강불괴로 돌아옴,"스포츠,현대판타지",단팥빵소년,947170,True,False,False,False,False,True,False,False,False,False,False
-32,내 조선에 세종은 없다,"대체역사,퓨전",핏콩,942220,False,False,False,True,True,False,False,False,False,False,False
-33,미궁 속 천재공학자,"퓨전,현대판타지",병장개미,940460,True,False,False,False,True,False,False,False,False,False,False
-34,조선에는 쿠데타가 필요해요,"대체역사,전쟁·밀리터리",앙금고라니,903800,False,False,False,True,False,False,False,False,False,True,False
-35,턴제의 마법사,"판타지,퓨전",정따블,897650,False,True,False,False,True,False,False,False,False,False,False
-36,전능의 혀를 얻었다,"현대판타지,판타지",몽쉐르,897040,True,True,False,False,False,False,False,False,False,False,False
-37,세계권력급 아공간 헌터,현대판타지,슬리버,889520,True,False,False,False,False,False,False,False,False,False,False
-38,시장통 맛침명의 재벌처가 씹어먹다,"판타지,현대판타지",가프,882780,True,True,False,False,False,False,False,False,False,False,False
-39,당문전,무협,제이허빈,858620,False,False,True,False,False,False,False,False,False,False,False
-40,고귀한 헌터로 착각당했다,"퓨전,현대판타지",글포터,853800,True,False,False,False,True,False,False,False,False,False,False
-41,신입사원의 부업이 재벌 3세 친구다,"현대판타지,판타지",꿈가득남,843320,True,True,False,False,False,False,False,False,False,False,False
-42,천만년만에 귀환한 무신님,"퓨전,현대판타지",맛깔란,841080,True,False,False,False,True,False,False,False,False,False,False
-43,회귀자 생활백서(回歸者 生活白書),"무협,판타지",넉울히,819210,False,True,True,False,False,False,False,False,False,False,False
-44,무한전생-아서 허트,"판타지,퓨전",광악,794360,False,True,False,False,True,False,False,False,False,False,False
-45,121세기에서 살아남기,판타지,컵라면.,780030,False,True,False,False,False,False,False,False,False,False,False
-46,축구부 방출 후 천재 투수가 되었다,"스포츠,현대판타지",유선강,768980,True,False,False,False,False,True,False,False,False,False,False
-47,전천후 연예생활백서,"현대판타지,드라마",자경(蔗境),758960,True,False,False,False,False,False,True,False,False,False,False
-48,내 분신이 거물이 되어간다,"판타지,현대판타지",실험샘플,739540,True,True,False,False,False,False,False,False,False,False,False
-49,은퇴한 헌터의 아포칼립스,"현대판타지,게임",디다트,734740,True,False,False,False,False,False,False,False,True,False,False
-50,절대독공으로 SSS급 헌터,"현대판타지,퓨전",차성,707860,True,False,False,False,True,False,False,False,False,False,False
-51,파브르 in 사천당가,"무협,퓨전",에르훗,692250,False,False,True,False,True,False,False,False,False,False,False
-52,동로마 황녀가 내 아이를 임신하셨다,대체역사,열이틀,687710,False,False,False,True,False,False,False,False,False,False,False
-53,미국 레트로 소설가가 되었다.,"현대판타지,판타지",뇌조,686520,True,True,False,False,False,False,False,False,False,False,False
-54,회귀한 재벌은 미국을 사기로했다,"판타지,현대판타지",연태량,678990,True,True,False,False,False,False,False,False,False,False,False
-55,탑스타의 남동생이 되었다,"현대판타지,퓨전",운좋은놈,678860,True,False,False,False,True,False,False,False,False,False,False
-56,괴물 천재선수들이 날 너무 좋아함,"스포츠,현대판타지",혜인태,656550,True,False,False,False,False,True,False,False,False,False,False
-57,알바생이 요리를 너무 잘함,"현대판타지,판타지",윤재.,635930,True,True,False,False,False,False,False,False,False,False,False
-58,축구천재로 오해받는 중입니다,"스포츠,현대판타지",한명현,627390,True,False,False,False,False,True,False,False,False,False,False
-59,메디치 가문의 사생아가 너무 유능함,"대체역사,현대판타지",르클레르,626970,True,False,False,True,False,False,False,False,False,False,False
-60,방구석 음악 천재.,"현대판타지,드라마",시하,619330,True,False,False,False,False,False,True,False,False,False,False
-61,회귀한 김에 아이돌 때려칩니다,"현대판타지,로맨스",엔터키뽑,617980,True,False,False,False,False,False,False,True,False,False,False
-62,내 수익률 무한!,"현대판타지,판타지",혁이.,615840,True,True,False,False,False,False,False,False,False,False,False
-63,조선왕자가 미국갔다 안 돌아옴,"대체역사,퓨전",누텔라.,609120,False,False,False,True,True,False,False,False,False,False,False
-64,은퇴 코더가 빅테크를 사버림,"현대판타지,판타지",SOKIN,601730,True,True,False,False,False,False,False,False,False,False,False
-65,1970 중정 요원은 핵이 필요합니다,"대체역사,판타지",정사부,599370,False,True,False,True,False,False,False,False,False,False,False
-66,천재 배우 복귀했습니다,"현대판타지,드라마",나일함,591770,True,False,False,False,False,False,True,False,False,False,False
-67,충무공의 아들이 되었다,"대체역사,전쟁·밀리터리",보헤미아.,591090,False,False,False,True,False,False,False,False,False,True,False
-68,대영제국에서 작가로 살아남기,"대체역사,퓨전",고스름도치,587350,False,False,False,True,True,False,False,False,False,False,False
-69,칭찬스티커 받는 단종,"대체역사,드라마",문환,580410,False,False,False,True,False,False,True,False,False,False,False
-70,케이팝 씹어먹는 천재 작곡가,"현대판타지,드라마",이신유,579510,True,False,False,False,False,False,True,False,False,False,False
-71,재벌집 만렙 아들,"현대판타지,드라마",오소록,578640,True,False,False,False,False,False,True,False,False,False,False
-72,풍요의 여신과 천재 망나니 사도님,"판타지,퓨전",곰산타,577450,False,True,False,False,True,False,False,False,False,False,False
-73,겨우 강해졌는데 회귀해버림,"현대판타지,퓨전",수국칼,569610,True,False,False,False,True,False,False,False,False,False,False
-74,특성 쌓는 김전사,"현대판타지,퓨전",산호초,565570,True,False,False,False,True,False,False,False,False,False,False
-75,돈과 재능이 쏟아져,"현대판타지,퓨전",더페이서,565310,True,False,False,False,True,False,False,False,False,False,False
-76,제국 경비대의 망나니 소드마스터,"판타지,퓨전",사탕꽃,565130,False,True,False,False,True,False,False,False,False,False,False
-77,미국 재벌3세는 천재였다,"현대판타지,대체역사",글라탕,561210,True,False,False,True,False,False,False,False,False,False,False
-78,초대 콧수염 대마왕이 되었다,"대체역사,판타지",리첼렌,560940,False,True,False,True,False,False,False,False,False,False,False
-79,사도세자는 편하게 살고 싶다,대체역사,까다롭스키,560730,False,False,False,True,False,False,False,False,False,False,False
-80,명군이 되어보세!,"대체역사,전쟁·밀리터리",슈타인호프,552890,False,False,False,True,False,False,False,False,False,True,False
-81,낭만재벌 김민식,"현대판타지,판타지",오정,552150,True,True,False,False,False,False,False,False,False,False,False
-82,역천의 대한민국!,"대체역사,전쟁·밀리터리",강바기,542480,False,False,False,True,False,False,False,False,False,True,False
-83,우주 무기가 너무 강함,"현대판타지,판타지",계란탁,541810,True,True,False,False,False,False,False,False,False,False,False
-84,천재 미드필더의 패스는 특별하다,"스포츠,현대판타지",역작s,540930,True,False,False,False,False,True,False,False,False,False,False
-85,돌팔이 의사 자크 지라르,"판타지,퓨전",담하이데,537860,False,True,False,False,True,False,False,False,False,False,False
-86,쓰나미도 피하는 위치선정 축구천재,"스포츠,현대판타지",계약직,536730,True,False,False,False,False,True,False,False,False,False,False
-87,레벨업 하는 로그,판타지,글쟁이라떼,527700,False,True,False,False,False,False,False,False,False,False,False
-88,나는 이렇게 재벌이 되었다,"현대판타지,대체역사",푸달,524580,True,False,False,True,False,False,False,False,False,False,False
-89,각성이 멈추질 않는다,"현대판타지,퓨전",길마,501850,True,False,False,False,True,False,False,False,False,False,False
-90,역대급 스피드의 축구천재,"스포츠,판타지",얼음강철,498940,False,True,False,False,False,True,False,False,False,False,False
-91,"을미년, 민비 대신 고종이 죽었다",대체역사,이그드라시,485020,False,False,False,True,False,False,False,False,False,False,False
-92,마갑을 만드는 천재마법사,판타지,레드풋,478210,False,True,False,False,False,False,False,False,False,False,False
-93,아포칼립스 장난감,"현대판타지,퓨전",눌프,476090,True,False,False,False,True,False,False,False,False,False,False
-94,카이스트 천재는 재벌이 된다,"현대판타지,퓨전",지지지비,473160,True,False,False,False,True,False,False,False,False,False,False
-95,불행을 보는 재벌집 손자,현대판타지,유재무,466460,True,False,False,False,False,False,False,False,False,False,False
-96,말단 병사가 너무 강함,"판타지,퓨전",글택,465990,False,True,False,False,True,False,False,False,False,False,False
-97,"치명적인 남자, 어게인 라이프!","현대판타지,드라마",울프21,462370,True,False,False,False,False,False,True,False,False,False,False
-98,귀농했는데 세계수로 미국식 농사,"현대판타지,판타지",노마(駑馬),459060,True,True,False,False,False,False,False,False,False,False,False
-99,재벌 3세는 조용히 살고 싶다,현대판타지,SSDHDD,457910,True,False,False,False,False,False,False,False,False,False,False
-100,"조선, 혁명의 시대",대체역사,태사령,448910,False,False,False,True,False,False,False,False,False,False,False
-101,귀농한 무한서고의 주인이 꿀빠는 법,"판타지,퓨전",[세인토],448670,False,True,False,False,True,False,False,False,False,False,False
-102,전지적 독자 시점,"현대판타지,판타지",싱숑,447550,True,True,False,False,False,False,False,False,False,False,False
-103,억만장자가 된 미전실의 사냥개,"현대판타지,드라마",홈스탠바이,444940,True,False,False,False,False,False,True,False,False,False,False
-104,아포칼립스의 유일한 흑마법사가 되었다,"현대판타지,퓨전",BELF,437820,True,False,False,False,True,False,False,False,False,False,False
-105,회귀한 전생자의 유유자적 재난 라이프,현대판타지,전혁,433530,True,False,False,False,False,False,False,False,False,False,False
-106,미국 로또로 역대급 재벌!,"판타지,현대판타지",강바기,430710,True,True,False,False,False,False,False,False,False,False,False
-107,작곡천재의 멜로디,"현대판타지,드라마",나일함,430100,True,False,False,False,False,False,True,False,False,False,False
-108,고아인데 마법천재,판타지,찬동,429470,False,True,False,False,False,False,False,False,False,False,False
-109,황금 귀의 프로듀서,"현대판타지,퓨전",무적푸딩,426780,True,False,False,False,True,False,False,False,False,False,False
-110,폐급 배우가 상태창을 숨김,현대판타지,papapa.,425940,True,False,False,False,False,False,False,False,False,False,False
-111,혈귀무쌍,"무협,판타지",강민성,425660,False,True,True,False,False,False,False,False,False,False,False
-112,총통님 미국 가신다!,"대체역사,현대판타지",민초냥이,422120,True,False,False,True,False,False,False,False,False,False,False
-113,1979 김부장이 독재를 계승 중입니다!,"현대판타지,대체역사",아아연하게,418770,True,False,False,True,False,False,False,False,False,False,False
-114,회사 잘린 김에 음악천재 합니다,"현대판타지,일반소설",먹고땡,417080,True,False,False,False,False,False,False,False,False,False,True
-115,열혈 인생,현대판타지,동쪽사람,416380,True,False,False,False,False,False,False,False,False,False,False
-116,임기 첫날에 게이트가 열렸다,"현대판타지,판타지",피아조아,416260,True,True,False,False,False,False,False,False,False,False,False
-117,미친 천재작가가 돌아왔다,"현대판타지,드라마",피자소주,411810,True,False,False,False,False,False,True,False,False,False,False
-118,무림 속 공무원으로 살아가는 법,"무협,퓨전",글쓰는기계,410840,False,False,True,False,True,False,False,False,False,False,False
-119,귀농했는데 아포칼립스 터졌다,"현대판타지,판타지",버머랜드,409200,True,True,False,False,False,False,False,False,False,False,False
-120,내 마법만 레벨업,"판타지,퓨전",해무극,408350,False,True,False,False,True,False,False,False,False,False,False
-121,괴물 음악천재가 되어 돌아왔다,현대판타지,츠로프,406850,True,False,False,False,False,False,False,False,False,False,False
-122,1988 레트로 게임 재벌,현대판타지,Guybrush,404690,True,False,False,False,False,False,False,False,False,False,False
-123,파혼 후 역대급 투자 천재,"현대판타지,퓨전",단골손놈,394560,True,False,False,False,True,False,False,False,False,False,False
-124,MLB 천재들이 방출 포수를 너무 좋아함,"스포츠,현대판타지",에필로거,384950,True,False,False,False,False,True,False,False,False,False,False
-125,짜장 한 그릇에 제갈세가 데릴사위,"무협,퓨전",에르훗,381400,False,False,True,False,True,False,False,False,False,False,False
-126,서부로 간 검은머리 용병,"대체역사,퓨전",노오력.,379270,False,False,False,True,True,False,False,False,False,False,False
-127,기적을 빚는 도예가,"현대판타지,판타지",노델,374940,True,True,False,False,False,False,False,False,False,False,False
-128,귀농했더니 국가급 거물 후배들이 몰려든다,"현대판타지,판타지",아길론™,374110,True,True,False,False,False,False,False,False,False,False,False
-129,서울역 세종대왕,"대체역사,현대판타지",구사(龜沙),371420,True,False,False,True,False,False,False,False,False,False,False
-130,스킬진화로 빌런 응징,"현대판타지,판타지",라팜팜,369270,True,True,False,False,False,False,False,False,False,False,False
-131,역대급 라이프 스타일,"현대판타지,판타지",에쮸드,364630,True,True,False,False,False,False,False,False,False,False,False
-132,몽골조선의 천재 데릴사위가 되었다,"대체역사,퓨전",기신,360380,False,False,False,True,True,False,False,False,False,False,False
-133,괴력 난신(怪力 亂神),"무협,판타지",한중월야,359310,False,True,True,False,False,False,False,False,False,False,False
-134,카이저가 칼들고 협박함,"대체역사,전쟁·밀리터리",I알자스I,358090,False,False,False,True,False,False,False,False,False,True,False
-135,멸망한 세계의 전승자,"판타지,퓨전",판작,357940,False,True,False,False,True,False,False,False,False,False,False
-136,퓨전펑크의 전생자,"판타지,퓨전",쫄면에삼겹,357800,False,True,False,False,True,False,False,False,False,False,False
-137,명문고 EX급 조연의 리플레이,"현대판타지,게임",기월월,355180,True,False,False,False,False,False,False,False,True,False,False
-138,이동 요새로 아포칼립스 살아남기,"판타지,현대판타지",스타퍼,352940,True,True,False,False,False,False,False,False,False,False,False
-139,오빠가 천재였다.,"현대판타지,드라마",시하,352730,True,False,False,False,False,False,True,False,False,False,False
-140,근력 만렙 중세인,"판타지,퓨전",련습,351620,False,True,False,False,True,False,False,False,False,False,False
-141,나 혼자 탑에서 농사,"현대판타지,퓨전",sdcknight,350880,True,False,False,False,True,False,False,False,False,False,False
-142,제약회사 회장님은 절대독마,현대판타지,꾸찌꾸찌,346860,True,False,False,False,False,False,False,False,False,False,False
-143,조선에서 인간병기로 살아가는 법,"퓨전,대체역사",담배맛젤리,344150,False,False,False,True,True,False,False,False,False,False,False
-144,천재 흑마법사,판타지,노란커피,341920,False,True,False,False,False,False,False,False,False,False,False
-145,전생에 미켈란젤로였다,"현대판타지,드라마",4분,340900,True,False,False,False,False,False,True,False,False,False,False
-146,S급 용병의 슬기로운 사회생활,현대판타지,한준솔봄,340750,True,False,False,False,False,False,False,False,False,False,False
-147,역천무림,무협,라바테라,340400,False,False,True,False,False,False,False,False,False,False,False
-148,재벌가에 천재가 입양 되었다,"현대판타지,판타지",꿈가득남,339670,True,True,False,False,False,False,False,False,False,False,False
-149,중소기업 신입사원 이현준,"현대판타지,판타지",혁이.,339330,True,True,False,False,False,False,False,False,False,False,False
-150,이혼 전 무한 캐시백 당첨,현대판타지,닥훈,338320,True,False,False,False,False,False,False,False,False,False,False
-151,환생한 음악천재가 재능을 못 숨김,현대판타지,아몬드빵,337990,True,False,False,False,False,False,False,False,False,False,False
-152,변경의 죄수는 검성을 꿈꾼다,판타지,Cadilet,331910,False,True,False,False,False,False,False,False,False,False,False
-153,불꽃의 기사,"판타지,퓨전",도동파,330790,False,True,False,False,True,False,False,False,False,False,False
-154,F급 헌터가 우주전함을 키움,"현대판타지,퓨전",이나르™,329140,True,False,False,False,True,False,False,False,False,False,False
-155,똥손 재벌 3세 회귀하다,"현대판타지,대체역사",Primus,328650,True,False,False,True,False,False,False,False,False,False,False
-156,무신연의 : 여포가 효도를 잘함,"퓨전,대체역사",별꽃라떼,324940,False,False,False,True,True,False,False,False,False,False,False
-157,존버했더니 제국권력급 스승을 얻었다,"현대판타지,퓨전",05林,324140,True,False,False,False,True,False,False,False,False,False,False
-158,나의 조선에 유교는 필요없다,"대체역사,판타지",정동갑제,323900,False,True,False,True,False,False,False,False,False,False,False
-159,수비천재가 3점을 폭격함,"스포츠,현대판타지",코다,314420,True,False,False,False,False,True,False,False,False,False,False
-160,시한부 천재가 살아남는 법,"무협,퓨전",청시소,310940,False,False,True,False,True,False,False,False,False,False,False
-161,빌보드 1위로 시작하는 작곡생활,"현대판타지,드라마",바사라단,310290,True,False,False,False,False,False,True,False,False,False,False
-162,초월자들과 거래하는 헌터,"현대판타지,판타지",지장수,309060,True,True,False,False,False,False,False,False,False,False,False
-163,중세 불꽃의 기사로 살아남기,"판타지,퓨전",포더엠,308410,False,True,False,False,True,False,False,False,False,False,False
-164,격랑을 누르는 검,무협,백연™,307620,False,False,True,False,False,False,False,False,False,False,False
-165,내 안에 AI가 들어왔다,현대판타지,장경의꿈,301440,True,False,False,False,False,False,False,False,False,False,False
-166,재벌을 넘어 귀족으로,"현대판타지,판타지",푸달,300770,True,True,False,False,False,False,False,False,False,False,False
-167,0살부터 슈퍼스타,"현대판타지,퓨전",북그곰,298620,True,False,False,False,True,False,False,False,False,False,False
-168,아포칼립스 EX급 벙커 라이프,"현대판타지,퓨전",켈린더,298280,True,False,False,False,True,False,False,False,False,False,False
-169,천재 축구감독의 2회차,"스포츠,현대판타지",주주총회,297460,True,False,False,False,False,True,False,False,False,False,False
-170,낙하산이 그렇게 일을 잘한다고?,현대판타지,파셔,296990,True,False,False,False,False,False,False,False,False,False,False
-171,무인도 힐링 라이프를 꿈꿨는데 대박집 사장님이 되었다!,현대판타지,R렉스,296280,True,False,False,False,False,False,False,False,False,False,False
-172,망겜의 시체줍는 천재전사,"판타지,게임",코라멜.,295950,False,True,False,False,False,False,False,False,True,False,False
-173,AI 나노봇으로 농사를 딸깍,현대판타지,따상,295300,True,False,False,False,False,False,False,False,False,False,False
-174,은퇴한 전설의 특수요원이 반로환동하여 사는 법.,"판타지,현대판타지",강바기,294120,True,True,False,False,False,False,False,False,False,False,False
-175,야만전사의 게임방송,"현대판타지,판타지",냐타드코코,293780,True,True,False,False,False,False,False,False,False,False,False
-176,신화 속 양치기 노예가 되었다.,"판타지,대체역사",간다왼쪽,292650,False,True,False,True,False,False,False,False,False,False,False
-177,신입사원이 미쳐 날뜀,"현대판타지,드라마",드렁큰댕댕,288370,True,False,False,False,False,False,True,False,False,False,False
-178,빙하기 아포칼립스의 회사원,"현대판타지,퓨전",희나리T,287100,True,False,False,False,True,False,False,False,False,False,False
-179,여행 중에 아이가 생겼다.,현대판타지,소설마표,286640,True,False,False,False,False,False,False,False,False,False,False
-180,투수가 딸깍함!,"스포츠,현대판타지",엉심킬러,284100,True,False,False,False,False,True,False,False,False,False,False
-181,트립한국 1933 호주에서 시작하다,"대체역사,현대판타지",적운창,282090,True,False,False,True,False,False,False,False,False,False,False
-182,환생했더니 단종의 보모나인,"대체역사,퓨전",윤인수,281430,False,False,False,True,True,False,False,False,False,False,False
-183,말단병사에서 군주까지,"판타지,퓨전",소울풍,280450,False,True,False,False,True,False,False,False,False,False,False
-184,이세계 영주가 밥을 잘 먹임,"판타지,퓨전",이디즈,280100,False,True,False,False,True,False,False,False,False,False,False
-185,착각계 소드마스터,"판타지,퓨전",기뮨,279990,False,True,False,False,True,False,False,False,False,False,False
-186,고인물의 스킬이 너무 화려하다,"퓨전,판타지",광산김가,279440,False,True,False,False,True,False,False,False,False,False,False
-187,전생에 모네 친구였던 재벌집 망나니,"현대판타지,판타지",폭팡,278810,True,True,False,False,False,False,False,False,False,False,False
-188,빌런의 경제학,"현대판타지,퓨전",드림보트,278290,True,False,False,False,True,False,False,False,False,False,False
-189,대뜸 착각당했다 괴물 천재배우로,"현대판타지,판타지",장탄,275600,True,True,False,False,False,False,False,False,False,False,False
-190,회귀한 복학생이 건축 명문대 만듦,"현대판타지,판타지",방구석리,275120,True,True,False,False,False,False,False,False,False,False,False
-191,은퇴한 헌터는 세계수를 주웠다,"현대판타지,판타지",콜레오,275070,True,True,False,False,False,False,False,False,False,False,False
-192,카이저를 구했다,"대체역사,전쟁·밀리터리",레니비,273340,False,False,False,True,False,False,False,False,False,True,False
-193,탑 미발견 지역에서 꿀 빱니다,"판타지,퓨전",2차자아,270930,False,True,False,False,True,False,False,False,False,False,False
-194,멕시코 제국 황태자가 되었다,"대체역사,판타지",폭우(暴雨),269290,False,True,False,True,False,False,False,False,False,False,False
-195,재벌 3세의 홀로서기,"현대판타지,대체역사",새가람,267880,True,False,False,True,False,False,False,False,False,False,False
-196,검은머리 미군 대원수,"대체역사,현대판타지",명원(命元),267680,True,False,False,True,False,False,False,False,False,False,False
-197,홈런에 미친놈,"스포츠,현대판타지",박경원,267180,True,False,False,False,False,True,False,False,False,False,False
-198,운명을 보는 회사원,"현대판타지,퓨전",영완(映完),265030,True,False,False,False,True,False,False,False,False,False,False
-199,테니스 코트 위의 절대자,"스포츠,일반소설",김군0619,264630,False,False,False,False,False,True,False,False,False,False,True
-200,검신환생,"무협,판타지",정석연재,262160,False,True,True,False,False,False,False,False,False,False,False
+,제목,장르,작가,지수,현대판타지,판타지,무협,대체역사,퓨전,스포츠,드라마,로맨스,게임,전쟁·밀리터리,일반소설,SF
+1,하남자의 탑 공략법,"현대판타지, 퓨전",꾸찌꾸찌,5822600,True,False,False,False,True,False,False,False,False,False,False,False
+2,용사의 발라드,판타지,도동파,3560370,False,True,False,False,False,False,False,False,False,False,False,False
+3,방구석 저격수.,"현대판타지, 퓨전",캡슐호텔,3078310,True,False,False,False,True,False,False,False,False,False,False,False
+4,회귀수선전(回歸修仙傳),"무협, 퓨전",엄청난,2736630,False,False,True,False,True,False,False,False,False,False,False,False
+5,범상한 변호사의 아공간,현대판타지,서칸더브이,2565400,True,False,False,False,False,False,False,False,False,False,False,False
+6,탑 매니지먼트,현대판타지,장우산,2467890,True,False,False,False,False,False,False,False,False,False,False,False
+7,미혼부 AI로 세상을 지배하다,"현대판타지, 퓨전",소보로설,2275260,True,False,False,False,True,False,False,False,False,False,False,False
+8,차라리 빌런으로 살겠다,"현대판타지, 드라마",서인하,1983970,True,False,False,False,False,False,True,False,False,False,False,False
+9,이상적 연출생활백서,"현대판타지, 드라마",자경(蔗境),1860720,True,False,False,False,False,False,True,False,False,False,False,False
+10,약먹는 천재마법사,"현대판타지, 판타지",글근육,1788810,True,True,False,False,False,False,False,False,False,False,False,False
+11,"로큰롤, 발 없는 새가 되다","현대판타지, 판타지",경우勁雨,1541880,True,True,False,False,False,False,False,False,False,False,False,False
+12,북부 대공의 미친 데릴사위,"판타지, 퓨전",곰돌이는,1468270,False,True,False,False,True,False,False,False,False,False,False,False
+13,화약고 제국의 천재 대공,"대체역사, 판타지",시작의바다,1440240,False,True,False,True,False,False,False,False,False,False,False,False
+14,세상에 나쁜 영애는 없다,"판타지, 로맨스",코리타,1386050,False,True,False,False,False,False,False,True,False,False,False,False
+15,시간을 달리는 소설가,"현대판타지, 판타지",피아조아,1360760,True,True,False,False,False,False,False,False,False,False,False,False
+16,아포칼립스에 집을 숨김,"현대판타지, 퓨전",로드워리어,1339810,True,False,False,False,True,False,False,False,False,False,False,False
+17,호콴의 도서관,"판타지, 퓨전",쿠우울,1321470,False,True,False,False,True,False,False,False,False,False,False,False
+18,EX급 절대반지를 얻었다,"퓨전, 현대판타지",김현준™,1282800,True,False,False,False,True,False,False,False,False,False,False,False
+19,블랙기업조선,"대체역사, 퓨전",국뽕,1279920,False,False,False,True,True,False,False,False,False,False,False,False
+20,글러먹은 빙의,"퓨전, 판타지",목마,1237490,False,True,False,False,True,False,False,False,False,False,False,False
+21,회사원이 너무 강함,"현대판타지, 스포츠",블루티풀,1178710,True,False,False,False,False,True,False,False,False,False,False,False
+22,화학천재의 비밀 투자 공식,"현대판타지, 판타지",율려(律呂),1146330,True,True,False,False,False,False,False,False,False,False,False,False
+23,웰컴 투 NBA,"스포츠, 현대판타지",필리포스,1084610,True,False,False,False,False,True,False,False,False,False,False,False
+24,삼국지 : 내가 영웅의 그릇인가.,"대체역사, 퓨전",엠보돌,1079100,False,False,False,True,True,False,False,False,False,False,False,False
+25,공물 바치고 대마법사,"판타지, 퓨전",낭선,1041100,False,True,False,False,True,False,False,False,False,False,False,False
+26,탐관오리가 상태창을 숨김,"대체역사, 퓨전",코락스,1025610,False,False,False,True,True,False,False,False,False,False,False,False
+27,EX급 창고를 얻었다,"판타지, 게임",한손검,1020990,False,True,False,False,False,False,False,False,True,False,False,False
+28,슈팅 궤적이 다 보임,"스포츠, 현대판타지",닥터암,1012580,True,False,False,False,False,True,False,False,False,False,False,False
+29,러스트 [ RUST ],"현대판타지,판타지",글라딘,1008040,True,True,False,False,False,False,False,False,False,False,False,False
+30,회귀했는데 세상이 안 망함,"현대판타지,판타지",선우(仙宇),948290,True,True,False,False,False,False,False,False,False,False,False,False
+31,내 조선에 세종은 없다,"대체역사,퓨전",핏콩,945200,False,False,False,True,True,False,False,False,False,False,False,False
+32,방출당한 투수가 금강불괴로 돌아옴,"스포츠,현대판타지",단팥빵소년,938700,True,False,False,False,False,True,False,False,False,False,False,False
+33,미궁 속 천재공학자,"퓨전,현대판타지",병장개미,935760,True,False,False,False,True,False,False,False,False,False,False,False
+34,조선에는 쿠데타가 필요해요,"대체역사,전쟁·밀리터리",앙금고라니,905770,False,False,False,True,False,False,False,False,False,True,False,False
+35,턴제의 마법사,"판타지,퓨전",정따블,889460,False,True,False,False,True,False,False,False,False,False,False,False
+36,전능의 혀를 얻었다,"현대판타지,판타지",몽쉐르,885100,True,True,False,False,False,False,False,False,False,False,False,False
+37,고귀한 헌터로 착각당했다,"퓨전,현대판타지",글포터,869980,True,False,False,False,True,False,False,False,False,False,False,False
+38,신입사원의 부업이 재벌 3세 친구다,"현대판타지,판타지",꿈가득남,866610,True,True,False,False,False,False,False,False,False,False,False,False
+39,시장통 맛침명의 재벌처가 씹어먹다,"판타지,현대판타지",가프,866000,True,True,False,False,False,False,False,False,False,False,False,False
+40,세계권력급 아공간 헌터,현대판타지,슬리버,864330,True,False,False,False,False,False,False,False,False,False,False,False
+41,당문전,무협,제이허빈,851750,False,False,True,False,False,False,False,False,False,False,False,False
+42,천만년만에 귀환한 무신님,"퓨전,현대판타지",맛깔란,797950,True,False,False,False,True,False,False,False,False,False,False,False
+43,무한전생-아서 허트,"판타지,퓨전",광악,795970,False,True,False,False,True,False,False,False,False,False,False,False
+44,121세기에서 살아남기,판타지,컵라면.,789790,False,True,False,False,False,False,False,False,False,False,False,False
+45,회귀자 생활백서(回歸者 生活白書),"무협,판타지",넉울히,781810,False,True,True,False,False,False,False,False,False,False,False,False
+46,축구부 방출 후 천재 투수가 되었다,"스포츠,현대판타지",유선강,756640,True,False,False,False,False,True,False,False,False,False,False,False
+47,전천후 연예생활백서,"현대판타지,드라마",자경(蔗境),750470,True,False,False,False,False,False,True,False,False,False,False,False
+48,내 분신이 거물이 되어간다,"판타지,현대판타지",실험샘플,743650,True,True,False,False,False,False,False,False,False,False,False,False
+49,은퇴한 헌터의 아포칼립스,"현대판타지,게임",디다트,738210,True,False,False,False,False,False,False,False,True,False,False,False
+50,탑스타의 남동생이 되었다,"현대판타지,퓨전",운좋은놈,719820,True,False,False,False,True,False,False,False,False,False,False,False
+51,절대독공으로 SSS급 헌터,"현대판타지,퓨전",차성,714700,True,False,False,False,True,False,False,False,False,False,False,False
+52,파브르 in 사천당가,"무협,퓨전",에르훗,690410,False,False,True,False,True,False,False,False,False,False,False,False
+53,미국 레트로 소설가가 되었다.,"현대판타지,판타지",뇌조,678250,True,True,False,False,False,False,False,False,False,False,False,False
+54,동로마 황녀가 내 아이를 임신하셨다,대체역사,열이틀,677170,False,False,False,True,False,False,False,False,False,False,False,False
+55,회귀한 재벌은 미국을 사기로했다,"판타지,현대판타지",연태량,672020,True,True,False,False,False,False,False,False,False,False,False,False
+56,괴물 천재선수들이 날 너무 좋아함,"스포츠,현대판타지",혜인태,651760,True,False,False,False,False,True,False,False,False,False,False,False
+57,메디치 가문의 사생아가 너무 유능함,"대체역사,현대판타지",르클레르,651760,True,False,False,True,False,False,False,False,False,False,False,False
+58,알바생이 요리를 너무 잘함,"현대판타지,판타지",윤재.,640100,True,True,False,False,False,False,False,False,False,False,False,False
+59,내 수익률 무한!,"현대판타지,판타지",혁이.,637110,True,True,False,False,False,False,False,False,False,False,False,False
+60,조선왕자가 미국갔다 안 돌아옴,"대체역사,퓨전",누텔라.,619320,False,False,False,True,True,False,False,False,False,False,False,False
+61,방구석 음악 천재.,"현대판타지,드라마",시하,618880,True,False,False,False,False,False,True,False,False,False,False,False
+62,축구천재로 오해받는 중입니다,"스포츠,현대판타지",한명현,607070,True,False,False,False,False,True,False,False,False,False,False,False
+63,1970 중정 요원은 핵이 필요합니다,"대체역사,판타지",정사부,601540,False,True,False,True,False,False,False,False,False,False,False,False
+64,은퇴 코더가 빅테크를 사버림,"현대판타지,판타지",SOKIN,596810,True,True,False,False,False,False,False,False,False,False,False,False
+65,충무공의 아들이 되었다,"대체역사,전쟁·밀리터리",보헤미아.,596180,False,False,False,True,False,False,False,False,False,True,False,False
+66,천재 배우 복귀했습니다,"현대판타지,드라마",나일함,593970,True,False,False,False,False,False,True,False,False,False,False,False
+67,대영제국에서 작가로 살아남기,"대체역사,퓨전",고스름도치,589920,False,False,False,True,True,False,False,False,False,False,False,False
+68,회귀한 김에 아이돌 때려칩니다,"현대판타지,로맨스",엔터키뽑,587910,True,False,False,False,False,False,False,True,False,False,False,False
+69,칭찬스티커 받는 단종,"대체역사,드라마",문환,586200,False,False,False,True,False,False,True,False,False,False,False,False
+70,재벌집 만렙 아들,"현대판타지,드라마",오소록,585960,True,False,False,False,False,False,True,False,False,False,False,False
+71,미국 재벌3세는 천재였다,"현대판타지,대체역사",글라탕,571750,True,False,False,True,False,False,False,False,False,False,False,False
+72,케이팝 씹어먹는 천재 작곡가,"현대판타지,드라마",이신유,570030,True,False,False,False,False,False,True,False,False,False,False,False
+73,돈과 재능이 쏟아져,"현대판타지,퓨전",더페이서,569960,True,False,False,False,True,False,False,False,False,False,False,False
+74,특성 쌓는 김전사,"현대판타지,퓨전",산호초,569490,True,False,False,False,True,False,False,False,False,False,False,False
+75,사도세자는 편하게 살고 싶다,대체역사,까다롭스키,564700,False,False,False,True,False,False,False,False,False,False,False,False
+76,제국 경비대의 망나니 소드마스터,"판타지,퓨전",사탕꽃,562220,False,True,False,False,True,False,False,False,False,False,False,False
+77,겨우 강해졌는데 회귀해버림,"현대판타지,퓨전",수국칼,561370,True,False,False,False,True,False,False,False,False,False,False,False
+78,명군이 되어보세!,"대체역사,전쟁·밀리터리",슈타인호프,560460,False,False,False,True,False,False,False,False,False,True,False,False
+79,낭만재벌 김민식,"현대판타지,판타지",오정,558150,True,True,False,False,False,False,False,False,False,False,False,False
+80,돌팔이 의사 자크 지라르,"판타지,퓨전",담하이데,556650,False,True,False,False,True,False,False,False,False,False,False,False
+81,무신연의 : 여포가 효도를 잘함,"퓨전,대체역사",별꽃라떼,556130,False,False,False,True,True,False,False,False,False,False,False,False
+82,풍요의 여신과 천재 망나니 사도님,"판타지,퓨전",곰산타,556120,False,True,False,False,True,False,False,False,False,False,False,False
+83,우주 무기가 너무 강함,"현대판타지,판타지",계란탁,554660,True,True,False,False,False,False,False,False,False,False,False,False
+84,초대 콧수염 대마왕이 되었다,"대체역사,판타지",리첼렌,543230,False,True,False,True,False,False,False,False,False,False,False,False
+85,역천의 대한민국!,"대체역사,전쟁·밀리터리",강바기,539580,False,False,False,True,False,False,False,False,False,True,False,False
+86,천재 미드필더의 패스는 특별하다,"스포츠,현대판타지",역작s,539030,True,False,False,False,False,True,False,False,False,False,False,False
+87,쓰나미도 피하는 위치선정 축구천재,"스포츠,현대판타지",계약직,536770,True,False,False,False,False,True,False,False,False,False,False,False
+88,나는 이렇게 재벌이 되었다,"현대판타지,대체역사",푸달,520710,True,False,False,True,False,False,False,False,False,False,False,False
+89,레벨업 하는 로그,판타지,글쟁이라떼,510910,False,True,False,False,False,False,False,False,False,False,False,False
+90,각성이 멈추질 않는다,"현대판타지,퓨전",길마,503040,True,False,False,False,True,False,False,False,False,False,False,False
+91,회귀한 전생자의 유유자적 재난 라이프,현대판타지,전혁,495030,True,False,False,False,False,False,False,False,False,False,False,False
+92,마갑을 만드는 천재마법사,판타지,레드풋,494510,False,True,False,False,False,False,False,False,False,False,False,False
+93,역대급 스피드의 축구천재,"스포츠,판타지",얼음강철,493670,False,True,False,False,False,True,False,False,False,False,False,False
+94,"을미년, 민비 대신 고종이 죽었다",대체역사,이그드라시,489890,False,False,False,True,False,False,False,False,False,False,False,False
+95,불행을 보는 재벌집 손자,현대판타지,유재무,468850,True,False,False,False,False,False,False,False,False,False,False,False
+96,아포칼립스 장난감,"현대판타지,퓨전",눌프,468460,True,False,False,False,True,False,False,False,False,False,False,False
+97,카이스트 천재는 재벌이 된다,"현대판타지,퓨전",지지지비,467230,True,False,False,False,True,False,False,False,False,False,False,False
+98,말단 병사가 너무 강함,"판타지,퓨전",글택,464290,False,True,False,False,True,False,False,False,False,False,False,False
+99,"치명적인 남자, 어게인 라이프!","현대판타지,드라마",울프21,463350,True,False,False,False,False,False,True,False,False,False,False,False
+100,재벌 3세는 조용히 살고 싶다,현대판타지,SSDHDD,461350,True,False,False,False,False,False,False,False,False,False,False,False
+101,귀농했는데 세계수로 미국식 농사,"현대판타지,판타지",노마(駑馬),457160,True,True,False,False,False,False,False,False,False,False,False,False
+102,아포칼립스의 유일한 흑마법사가 되었다,"현대판타지,퓨전",BELF,456640,True,False,False,False,True,False,False,False,False,False,False,False
+103,전지적 독자 시점,"현대판타지,판타지",싱숑,446870,True,True,False,False,False,False,False,False,False,False,False,False
+104,고아인데 마법천재,판타지,찬동,446460,False,True,False,False,False,False,False,False,False,False,False,False
+105,"조선, 혁명의 시대",대체역사,태사령,444760,False,False,False,True,False,False,False,False,False,False,False,False
+106,억만장자가 된 미전실의 사냥개,"현대판타지,드라마",홈스탠바이,444310,True,False,False,False,False,False,True,False,False,False,False,False
+107,귀농한 무한서고의 주인이 꿀빠는 법,"판타지,퓨전",[세인토],438280,False,True,False,False,True,False,False,False,False,False,False,False
+108,폐급 배우가 상태창을 숨김,현대판타지,papapa.,434770,True,False,False,False,False,False,False,False,False,False,False,False
+109,미국 로또로 역대급 재벌!,"판타지,현대판타지",강바기,431540,True,True,False,False,False,False,False,False,False,False,False,False
+110,열혈 인생,현대판타지,동쪽사람,425940,True,False,False,False,False,False,False,False,False,False,False,False
+111,임기 첫날에 게이트가 열렸다,"현대판타지,판타지",피아조아,425190,True,True,False,False,False,False,False,False,False,False,False,False
+112,혈귀무쌍,"무협,판타지",강민성,424540,False,True,True,False,False,False,False,False,False,False,False,False
+113,총통님 미국 가신다!,"대체역사,현대판타지",민초냥이,424330,True,False,False,True,False,False,False,False,False,False,False,False
+114,미친 천재작가가 돌아왔다,"현대판타지,드라마",피자소주,424200,True,False,False,False,False,False,True,False,False,False,False,False
+115,작곡천재의 멜로디,"현대판타지,드라마",나일함,422320,True,False,False,False,False,False,True,False,False,False,False,False
+116,황금 귀의 프로듀서,"현대판타지,퓨전",무적푸딩,421770,True,False,False,False,True,False,False,False,False,False,False,False
+117,1979 김부장이 독재를 계승 중입니다!,"현대판타지,대체역사",아아연하게,412680,True,False,False,True,False,False,False,False,False,False,False,False
+118,무림 속 공무원으로 살아가는 법,"무협,퓨전",글쓰는기계,411750,False,False,True,False,True,False,False,False,False,False,False,False
+119,회사 잘린 김에 음악천재 합니다,"현대판타지,일반소설",먹고땡,411420,True,False,False,False,False,False,False,False,False,False,True,False
+120,1988 레트로 게임 재벌,현대판타지,Guybrush,407230,True,False,False,False,False,False,False,False,False,False,False,False
+121,귀농했는데 아포칼립스 터졌다,"현대판타지,판타지",버머랜드,403970,True,True,False,False,False,False,False,False,False,False,False,False
+122,내 마법만 레벨업,"판타지,퓨전",해무극,398410,False,True,False,False,True,False,False,False,False,False,False,False
+123,괴물 음악천재가 되어 돌아왔다,현대판타지,츠로프,397510,True,False,False,False,False,False,False,False,False,False,False,False
+124,제약회사 회장님은 절대독마,현대판타지,꾸찌꾸찌,397090,True,False,False,False,False,False,False,False,False,False,False,False
+125,서부로 간 검은머리 용병,"대체역사,퓨전",노오력.,387540,False,False,False,True,True,False,False,False,False,False,False,False
+126,파혼 후 역대급 투자 천재,"현대판타지,퓨전",단골손놈,386330,True,False,False,False,True,False,False,False,False,False,False,False
+127,짜장 한 그릇에 제갈세가 데릴사위,"무협,퓨전",에르훗,381560,False,False,True,False,True,False,False,False,False,False,False,False
+128,오빠가 천재였다.,"현대판타지,드라마",시하,377320,True,False,False,False,False,False,True,False,False,False,False,False
+129,퓨전펑크의 전생자,"판타지,퓨전",쫄면에삼겹,376980,False,True,False,False,True,False,False,False,False,False,False,False
+130,귀농했더니 국가급 거물 후배들이 몰려든다,"현대판타지,판타지",아길론™,372060,True,True,False,False,False,False,False,False,False,False,False,False
+131,서울역 세종대왕,"대체역사,현대판타지",구사(龜沙),370300,True,False,False,True,False,False,False,False,False,False,False,False
+132,MLB 천재들이 방출 포수를 너무 좋아함,"스포츠,현대판타지",에필로거,370180,True,False,False,False,False,True,False,False,False,False,False,False
+133,스킬진화로 빌런 응징,"현대판타지,판타지",라팜팜,369270,True,True,False,False,False,False,False,False,False,False,False,False
+134,이동 요새로 아포칼립스 살아남기,"판타지,현대판타지",스타퍼,363200,True,True,False,False,False,False,False,False,False,False,False,False
+135,카이저가 칼들고 협박함,"대체역사,전쟁·밀리터리",I알자스I,363130,False,False,False,True,False,False,False,False,False,True,False,False
+136,기적을 빚는 도예가,"현대판타지,판타지",노델,361090,True,True,False,False,False,False,False,False,False,False,False,False
+137,역대급 라이프 스타일,"현대판타지,판타지",에쮸드,358340,True,True,False,False,False,False,False,False,False,False,False,False
+138,멸망한 세계의 전승자,"판타지,퓨전",판작,357780,False,True,False,False,True,False,False,False,False,False,False,False
+139,몽골조선의 천재 데릴사위가 되었다,"대체역사,퓨전",기신,356880,False,False,False,True,True,False,False,False,False,False,False,False
+140,나 혼자 탑에서 농사,"현대판타지,퓨전",sdcknight,355670,True,False,False,False,True,False,False,False,False,False,False,False
+141,근력 만렙 중세인,"판타지,퓨전",련습,354800,False,True,False,False,True,False,False,False,False,False,False,False
+142,명문고 EX급 조연의 리플레이,"현대판타지,게임",기월월,353240,True,False,False,False,False,False,False,False,True,False,False,False
+143,괴력 난신(怪力 亂神),"무협,판타지",한중월야,352880,False,True,True,False,False,False,False,False,False,False,False,False
+144,역천무림,무협,라바테라,347900,False,False,True,False,False,False,False,False,False,False,False,False
+145,조선에서 인간병기로 살아가는 법,"퓨전,대체역사",담배맛젤리,344220,False,False,False,True,True,False,False,False,False,False,False,False
+146,재벌가에 천재가 입양 되었다,"현대판타지,판타지",꿈가득남,338920,True,True,False,False,False,False,False,False,False,False,False,False
+147,천재 축구감독의 2회차,"스포츠,현대판타지",주주총회,336850,True,False,False,False,False,True,False,False,False,False,False,False
+148,전생에 미켈란젤로였다,"현대판타지,드라마",4분,335790,True,False,False,False,False,False,True,False,False,False,False,False
+149,중소기업 신입사원 이현준,"현대판타지,판타지",혁이.,334680,True,True,False,False,False,False,False,False,False,False,False,False
+150,천재 흑마법사,판타지,노란커피,333890,False,True,False,False,False,False,False,False,False,False,False,False
+151,변경의 죄수는 검성을 꿈꾼다,판타지,Cadilet,327130,False,True,False,False,False,False,False,False,False,False,False,False
+152,똥손 재벌 3세 회귀하다,"현대판타지,대체역사",Primus,326240,True,False,False,True,False,False,False,False,False,False,False,False
+153,불꽃의 기사,"판타지,퓨전",도동파,324570,False,True,False,False,True,False,False,False,False,False,False,False
+154,환생한 음악천재가 재능을 못 숨김,현대판타지,아몬드빵,322860,True,False,False,False,False,False,False,False,False,False,False,False
+155,초월자들과 거래하는 헌터,"현대판타지,판타지",지장수,320570,True,True,False,False,False,False,False,False,False,False,False,False
+156,은퇴한 전설의 특수요원이 반로환동하여 사는 법.,"판타지,현대판타지",강바기,320110,True,True,False,False,False,False,False,False,False,False,False,False
+157,F급 헌터가 우주전함을 키움,"현대판타지,퓨전",이나르™,318900,True,False,False,False,True,False,False,False,False,False,False,False
+158,S급 용병의 슬기로운 사회생활,현대판타지,한준솔봄,315090,True,False,False,False,False,False,False,False,False,False,False,False
+159,재벌 3세의 홀로서기,"현대판타지,대체역사",새가람,312060,True,False,False,True,False,False,False,False,False,False,False,False
+160,재벌을 넘어 귀족으로,"현대판타지,판타지",푸달,311840,True,True,False,False,False,False,False,False,False,False,False,False
+161,시한부 천재가 살아남는 법,"무협,퓨전",청시소,310900,False,False,True,False,True,False,False,False,False,False,False,False
+162,아포칼립스 EX급 벙커 라이프,"현대판타지,퓨전",켈린더,308580,True,False,False,False,True,False,False,False,False,False,False,False
+163,빌보드 1위로 시작하는 작곡생활,"현대판타지,드라마",바사라단,307960,True,False,False,False,False,False,True,False,False,False,False,False
+164,수비천재가 3점을 폭격함,"스포츠,현대판타지",코다,307390,True,False,False,False,False,True,False,False,False,False,False,False
+165,존버했더니 제국권력급 스승을 얻었다,"현대판타지,퓨전",05林,303870,True,False,False,False,True,False,False,False,False,False,False,False
+166,중세 불꽃의 기사로 살아남기,"판타지,퓨전",포더엠,303620,False,True,False,False,True,False,False,False,False,False,False,False
+167,격랑을 누르는 검,무협,백연™,301870,False,False,True,False,False,False,False,False,False,False,False,False
+168,나의 조선에 유교는 필요없다,"대체역사,판타지",정동갑제,299990,False,True,False,True,False,False,False,False,False,False,False,False
+169,야만전사의 게임방송,"현대판타지,판타지",냐타드코코,298190,True,True,False,False,False,False,False,False,False,False,False,False
+170,AI 나노봇으로 농사를 딸깍,현대판타지,따상,297290,True,False,False,False,False,False,False,False,False,False,False,False
+171,이세계 영주가 밥을 잘 먹임,"판타지,퓨전",이디즈,295510,False,True,False,False,True,False,False,False,False,False,False,False
+172,무인도 힐링 라이프를 꿈꿨는데 대박집 사장님이 되었다!,현대판타지,R렉스,292620,True,False,False,False,False,False,False,False,False,False,False,False
+173,신화 속 양치기 노예가 되었다.,"판타지,대체역사",간다왼쪽,292070,False,True,False,True,False,False,False,False,False,False,False,False
+174,빌런의 경제학,"현대판타지,퓨전",드림보트,291270,True,False,False,False,True,False,False,False,False,False,False,False
+175,내 안에 AI가 들어왔다,현대판타지,장경의꿈,289610,True,False,False,False,False,False,False,False,False,False,False,False
+176,빙하기 아포칼립스의 회사원,"현대판타지,퓨전",희나리T,289110,True,False,False,False,True,False,False,False,False,False,False,False
+177,주인공이 힘을 숨김,"현대판타지,게임",로드워리어,288620,True,False,False,False,False,False,False,False,True,False,False,False
+178,여행 중에 아이가 생겼다.,현대판타지,소설마표,284850,True,False,False,False,False,False,False,False,False,False,False,False
+179,착각계 소드마스터,"판타지,퓨전",기뮨,282810,False,True,False,False,True,False,False,False,False,False,False,False
+180,투수가 딸깍함!,"스포츠,현대판타지",엉심킬러,282760,True,False,False,False,False,True,False,False,False,False,False,False
+181,고인물의 스킬이 너무 화려하다,"퓨전,판타지",광산김가,282340,False,True,False,False,True,False,False,False,False,False,False,False
+182,말단병사에서 군주까지,"판타지,퓨전",소울풍,281900,False,True,False,False,True,False,False,False,False,False,False,False
+183,트립한국 1933 호주에서 시작하다,"대체역사,현대판타지",적운창,281610,True,False,False,True,False,False,False,False,False,False,False,False
+184,신입사원이 미쳐 날뜀,"현대판타지,드라마",드렁큰댕댕,280900,True,False,False,False,False,False,True,False,False,False,False,False
+185,운명을 보는 회사원,"현대판타지,퓨전",영완(映完),280100,True,False,False,False,True,False,False,False,False,False,False,False
+186,아케인펑크의 공간술사,"퓨전,SF",다원.,280040,False,False,False,False,True,False,False,False,False,False,False,True
+187,환생했더니 단종의 보모나인,"대체역사,퓨전",윤인수,279500,False,False,False,True,True,False,False,False,False,False,False,False
+188,이혼 전 무한 캐시백 당첨,현대판타지,닥훈,274360,True,False,False,False,False,False,False,False,False,False,False,False
+189,대뜸 착각당했다 괴물 천재배우로,"현대판타지,판타지",장탄,273950,True,True,False,False,False,False,False,False,False,False,False,False
+190,회귀한 복학생이 건축 명문대 만듦,"현대판타지,판타지",방구석리,273580,True,True,False,False,False,False,False,False,False,False,False,False
+191,탑 미발견 지역에서 꿀 빱니다,"판타지,퓨전",2차자아,271090,False,True,False,False,True,False,False,False,False,False,False,False
+192,검은머리 미군 대원수,"대체역사,현대판타지",명원(命元),270460,True,False,False,True,False,False,False,False,False,False,False,False
+193,테니스 코트 위의 절대자,"스포츠,일반소설",김군0619,270300,False,False,False,False,False,True,False,False,False,False,True,False
+194,전생에 모네 친구였던 재벌집 망나니,"현대판타지,판타지",폭팡,269840,True,True,False,False,False,False,False,False,False,False,False,False
+195,은퇴한 헌터는 세계수를 주웠다,"현대판타지,판타지",콜레오,268570,True,True,False,False,False,False,False,False,False,False,False,False
+196,홈런에 미친놈,"스포츠,현대판타지",박경원,266460,True,False,False,False,False,True,False,False,False,False,False,False
+197,카이저를 구했다,"대체역사,전쟁·밀리터리",레니비,266230,False,False,False,True,False,False,False,False,False,True,False,False
+198,멕시코 제국 황태자가 되었다,"대체역사,판타지",폭우(暴雨),264060,False,True,False,True,False,False,False,False,False,False,False,False
+199,몬스터와 힐링하는 S급 헌터,"현대판타지,판타지",다기205,263990,True,True,False,False,False,False,False,False,False,False,False,False
+200,축구천재들의 재능을 삼켰다,"스포츠,현대판타지",저니환,262510,True,False,False,False,False,True,False,False,False,False,False,False

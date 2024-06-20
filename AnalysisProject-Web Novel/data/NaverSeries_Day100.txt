@@ -2,100 +2,100 @@
 1,화산귀환 [독점],무협,비가,9.2,True,False,False,False,False
 2,임신한 척했는데 남편이 돌아왔다 [독점],로판,별별토,9.8,False,True,False,False,False
 3,대기업 말단이 일을 잘함 [독점],현판,동면거북이,9.7,False,False,True,False,False
-4,북부 대공의 미친 데릴사위,판타지,곰돌이는,9.7,False,False,False,True,False
-5,하남자의 탑 공략법,판타지,꾸찌꾸찌,9.2,False,False,False,True,False
-6,완벽한 청혼 [독점],로맨스,송민선,9.2,False,False,False,False,True
-7,마교 교주의 부군이 되었다 [독점],무협,쥬레이,9.4,True,False,False,False,False
-8,오늘만 사는 기사 [독점],판타지,소울풍,9.8,False,False,False,True,False
-9,2레벨로 회귀한 무신,판타지,염비,9.4,False,False,False,True,False
-10,재벌집 만렙 아들,현판,오소록,9.6,False,False,True,False,False
-11,절대회귀 [독점],무협,장영훈,9.8,True,False,False,False,False
-12,괴력 난신(怪力 亂神),무협,한중월야,9.7,True,False,False,False,False
-13,버려진 황자로 편하게 사는 법 [독점],판타지,오프신,9.6,False,False,False,True,False
+4,하남자의 탑 공략법,판타지,꾸찌꾸찌,9.3,False,False,False,True,False
+5,북부 대공의 미친 데릴사위,판타지,곰돌이는,9.7,False,False,False,True,False
+6,오늘만 사는 기사 [독점],판타지,소울풍,9.8,False,False,False,True,False
+7,2레벨로 회귀한 무신,판타지,염비,9.4,False,False,False,True,False
+8,절대회귀 [독점],무협,장영훈,9.8,True,False,False,False,False
+9,재벌집 만렙 아들,현판,오소록,9.6,False,False,True,False,False
+10,전지적 독자 시점,현판,싱숑,9.9,False,False,True,False,False
+11,버린 쓰레기는 다시 줍지 않는다,로판,배고픈밤,9.7,False,True,False,False,False
+12,완벽한 청혼 [독점],로맨스,송민선,9.3,False,False,False,False,True
+13,괴력 난신(怪力 亂神),무협,한중월야,9.7,True,False,False,False,False
 14,게임 속 바바리안으로 살아남기 [독점],판타지,정윤강,9.4,False,False,False,True,False
-15,전지적 독자 시점,현판,싱숑,9.9,False,False,True,False,False
-16,미쉐린 백작 영애의 파란 공단 리본 [선공개],로판,미녜,9.4,False,True,False,False,False
-17,버린 쓰레기는 다시 줍지 않는다,로판,배고픈밤,9.6,False,True,False,False,False
-18,아포칼립스에 집을 숨김,현판,로드워리어,9.5,False,False,True,False,False
-19,천마신교 최강 막내제자 [독점],무협,리진,8.5,True,False,False,False,False
-20,회귀수선전(回歸修仙傳),무협,엄청난,9.6,True,False,False,False,False
-21,나 혼자 탑에서 농사,현판,sdcknight,9.8,False,False,True,False,False
-22,날 닮은 아이 [독점],로맨스,플아다,9.9,False,False,False,False,True
-23,못 잡아먹어서 안달 [독점],로맨스,플아다,9.9,False,False,False,False,True
-24,하녀와의 계약결혼 [독점],로판,달새울,9.9,False,True,False,False,False
-25,나의 다정한 무뢰한에게 [독점],로판,만다라,9.7,False,True,False,False,False
+15,시장통 맛침명의 재벌처가 씹어먹다,현판,가프,8.9,False,False,True,False,False
+16,마교 교주의 부군이 되었다 [독점],무협,쥬레이,9.4,True,False,False,False,False
+17,북부 대공,로판,투머치텐션,9.7,False,True,False,False,False
+18,EX급 창고를 얻었다,판타지,한손검,7.2,False,False,False,True,False
+19,아포칼립스에 집을 숨김,현판,로드워리어,9.5,False,False,True,False,False
+20,버려진 황자로 편하게 사는 법 [독점],판타지,오프신,9.6,False,False,False,True,False
+21,응급 연애 동의서 [선공개],로맨스,배사비,9.2,False,False,False,False,True
+22,하녀와의 계약결혼 [독점],로판,달새울,9.9,False,True,False,False,False
+23,회귀수선전(回歸修仙傳),무협,엄청난,9.6,True,False,False,False,False
+24,"교수님, 그 결혼 저랑 해요 [독점]",로맨스,루위,9.9,False,False,False,False,True
+25,나 혼자 탑에서 농사,현판,sdcknight,9.8,False,False,True,False,False
 26,김 대리는 아이돌이 싫어 [독점],현판,퇴사연습생,9.9,False,False,True,False,False
-27,1500억을 받았다,현판,먼지운,7.8,False,False,True,False,False
-28,카오스 [선공개],로맨스,홍지우,9.5,False,False,False,False,True
-29,나쁜 착각 [독점],로맨스,벚꽃그리고,9.7,False,False,False,False,True
-30,본능의 대가 [독점],로맨스,설우희,9.6,False,False,False,False,True
-31,엄마 친구 아들 관찰기 [독점],로맨스,주해나,9.4,False,False,False,False,True
+27,마도전생기 [독점],무협,codezero,9.2,True,False,False,False,False
+28,날 닮은 아이 [독점],로맨스,플아다,9.9,False,False,False,False,True
+29,나의 다정한 무뢰한에게 [독점],로판,만다라,9.7,False,True,False,False,False
+30,못 잡아먹어서 안달 [독점],로맨스,플아다,9.9,False,False,False,False,True
+31,뺏긴 자리에 미련 없습니다 [독점],로판,최아리,8.6,False,True,False,False,False
 32,천재 무림 트레이너 [독점],무협,크루크루,9.2,True,False,False,False,False
-33,마도전생기 [독점],무협,codezero,9.2,True,False,False,False,False
-34,디펜스 게임의 폭군이 되었다 [독점],판타지,류은가람,9.8,False,False,False,True,False
-35,마교전선 비룡십삼대 [독점],무협,겨울반디,8.3,True,False,False,False,False
-36,짙게 각인된 밤 [독점],로맨스,임여리,9.6,False,False,False,False,True
-37,"첫 번째, 베르하티의 마녀를 갖는 자 [독점]",로판,해뮨,8.8,False,True,False,False,False
-38,뺏긴 자리에 미련 없습니다 [독점],로판,최아리,8.6,False,True,False,False,False
-39,기획재정부 [독점],현판,현우,9.5,False,False,True,False,False
-40,환생천마,무협,장영훈,9.6,True,False,False,False,False
-41,레벨업 하는 로그,판타지,글쟁이라떼,9.6,False,False,False,True,False
-42,"교수님, 그 결혼 저랑 해요 [독점]",로맨스,루위,9.9,False,False,False,False,True
-43,광마회귀 [독점],무협,유진성,9.9,True,False,False,False,False
-44,살아남은 왕녀의 웃음 뒤에는 [선공개],로판,아미드,9.9,False,True,False,False,False
-45,칼라디아의 늑대 [독점],판타지,시연우,8.9,False,False,False,True,False
-46,회귀한 재벌은 미국을 사기로했다,현판,연태량,9.3,False,False,True,False,False
-47,프로듀서 김해성 [독점],현판,일월비,8.5,False,False,True,False,False
-48,기프티드 (GIFTED),현판,도서관식객,9.5,False,False,True,False,False
-49,블랙기업조선,판타지,국뽕,9.6,False,False,False,True,False
-50,이섭의 연애 [독점],로맨스,김언희,9.9,False,False,False,False,True
-51,황금 귀의 프로듀서,현판,무적푸딩,10.0,False,False,True,False,False
-52,절대 검감(絶對 劍感) [외전포함],무협,한중월야,9.4,True,False,False,False,False
-53,사천당가의 검신급 소가주가 되었다,무협,화계火鷄,7.6,True,False,False,False,False
-54,일타강사 백사부 [독점],무협,간짜장,9.8,True,False,False,False,False
-55,낱장의 여름 [독점],로맨스,박영,9.5,False,False,False,False,True
-56,회귀자 생활백서(回歸者 生活白書),무협,넉울히,9.2,True,False,False,False,False
-57,"언니, 이번 생엔 내가 왕비야 [독점]",로판,레팔진프,7.5,False,True,False,False,False
-58,재벌을 넘어 귀족으로,현판,푸달,8.6,False,False,True,False,False
-59,영업 천재가 되었다,현판,댄킴,9.9,False,False,True,False,False
-60,왕따 그만두고 천재합니다,현판,자론상이,9.4,False,False,True,False,False
-61,짜장 한 그릇에 제갈세가 데릴사위,무협,에르훗,9.6,True,False,False,False,False
-62,당문전,무협,제이허빈,9.4,True,False,False,False,False
-63,무한 리필 플레이어 [독점],판타지,담백하,8.6,False,False,False,True,False
-64,천화서고 대공자 [독점],무협,김현영,9.7,True,False,False,False,False
-65,A.I. 닥터 [독점],현판,한산이가,9.8,False,False,True,False,False
+33,마교전선 비룡십삼대 [독점],무협,겨울반디,8.1,True,False,False,False,False
+34,1500억을 받았다,현판,먼지운,7.8,False,False,True,False,False
+35,환생천마,무협,장영훈,9.6,True,False,False,False,False
+36,디펜스 게임의 폭군이 되었다 [독점],판타지,류은가람,9.8,False,False,False,True,False
+37,광마회귀 [독점],무협,유진성,9.9,True,False,False,False,False
+38,감히 눈을 마주치지 말 것 [독점],로판,유세라,9.6,False,True,False,False,False
+39,일타강사 백사부 [독점],무협,간짜장,9.8,True,False,False,False,False
+40,본능의 대가 [독점],로맨스,설우희,9.6,False,False,False,False,True
+41,기프티드 (GIFTED),현판,도서관식객,9.5,False,False,True,False,False
+42,사천당가의 검신급 소가주가 되었다,무협,화계火鷄,7.6,True,False,False,False,False
+43,살아남은 왕녀의 웃음 뒤에는 [선공개],로판,아미드,9.9,False,True,False,False,False
+44,"전설의 헌터, 회춘하다 [독점]",현판,BBing,9.0,False,False,True,False,False
+45,나쁜 착각 [독점],로맨스,벚꽃그리고,9.7,False,False,False,False,True
+46,운명을 보는 회사원,현판,영완(映完),9.8,False,False,True,False,False
+47,레벨업 하는 로그,판타지,글쟁이라떼,9.6,False,False,False,True,False
+48,별을 품은 소드마스터,판타지,Q10,9.8,False,False,False,True,False
+49,천재의 신들린 게임방송 [독점],현판,믿고보는,9.8,False,False,True,False,False
+50,짜장 한 그릇에 제갈세가 데릴사위,무협,에르훗,9.6,True,False,False,False,False
+51,블랙기업조선,판타지,국뽕,9.6,False,False,False,True,False
+52,회귀자 생활백서(回歸者 生活白書),무협,넉울히,9.2,True,False,False,False,False
+53,엄마 친구 아들 관찰기 [독점],로맨스,주해나,9.4,False,False,False,False,True
+54,A.I. 닥터 [독점],현판,한산이가,9.8,False,False,True,False,False
+55,왕따 그만두고 천재합니다,현판,자론상이,9.4,False,False,True,False,False
+56,회귀한 재벌은 미국을 사기로했다,현판,연태량,9.3,False,False,True,False,False
+57,이섭의 연애 [독점],로맨스,김언희,9.9,False,False,False,False,True
+58,시한부 천재가 살아남는 법,무협,청시소,9.6,True,False,False,False,False
+59,절대 검감(絶對 劍感) [외전포함],무협,한중월야,9.4,True,False,False,False,False
+60,할배무사와 지존 손녀 [독점],무협,일향(一向),9.7,True,False,False,False,False
+61,재벌의 품격 [독점],현판,서인하,9.5,False,False,True,False,False
+62,낱장의 여름 [독점],로맨스,박영,9.5,False,False,False,False,True
+63,영업 천재가 되었다,현판,댄킴,9.9,False,False,True,False,False
+64,몬스터와 힐링하는 S급 헌터,현판,다기205,9.9,False,False,True,False,False
+65,"첫 번째, 베르하티의 마녀를 갖는 자 [독점]",로판,해뮨,8.8,False,True,False,False,False
 66,약먹는 천재마법사,판타지,글근육,9.9,False,False,False,True,False
-67,천재의 신들린 게임방송 [독점],현판,믿고보는,9.8,False,False,True,False,False
-68,별을 품은 소드마스터,판타지,Q10,9.8,False,False,False,True,False
-69,제국 경비대의 망나니 소드마스터,판타지,사탕꽃,9.2,False,False,False,True,False
-70,몬스터와 힐링하는 S급 헌터,현판,다기205,9.9,False,False,True,False,False
-71,재벌의 품격 [독점],현판,서인하,9.5,False,False,True,False,False
-72,나의 조선에 유교는 필요없다,판타지,정동갑제,9.1,False,False,False,True,False
-73,은퇴한 초인의 슬로우라이프,판타지,ROHRAN노란,9.7,False,False,False,True,False
-74,시한부 천재가 살아남는 법,무협,청시소,9.6,True,False,False,False,False
-75,감히 눈을 마주치지 말 것 [독점],로판,유세라,9.5,False,True,False,False,False
-76,할배무사와 지존 손녀 [독점],무협,일향(一向),9.7,True,False,False,False,False
-77,목소리를 듣는 천재 매니저 [독점],현판,에프릴,9.0,False,False,True,False,False
-78,사랑하는 나의 억압자 [독점],로판,서사희,9.9,False,True,False,False,False
-79,두 번째 집착 [독점],로맨스,강춘,9.9,False,False,False,False,True
-80,블랙배저 [독점],판타지,썬터다운,9.9,False,False,False,True,False
-81,지옥에서 돌아온 천재 작가 [독점],현판,매운도사,8.5,False,False,True,False,False
-82,장씨세가 호위무사 [독점],무협,조형근,9.2,True,False,False,False,False
-83,응급 맞선,로맨스,강영주,9.8,False,False,False,False,True
-84,천만년만에 귀환한 무신님,판타지,맛깔란,8.3,False,False,False,True,False
-85,운명을 보는 회사원,현판,영완(映完),9.8,False,False,True,False,False
-86,귀농했는데 아포칼립스 터졌다,판타지,버머랜드,7.4,False,False,False,True,False
-87,천마육성 시뮬레이션 [독점],무협,조형근,8.9,True,False,False,False,False
-88,죽은 신의 성기사 [독점],판타지,초매,9.8,False,False,False,True,False
-89,피폐물을 힐링물로 만드는 방법 [독점],로판,황도톨,9.8,False,True,False,False,False
-90,귀농했더니 국가급 거물 후배들이 몰려든다,판타지,아길론,9.5,False,False,False,True,False
-91,바스티안 [독점] [에디티드 버전],로판,솔체,9.5,False,True,False,False,False
-92,농어촌 에이스 [독점],현판,이블라인,9.5,False,False,True,False,False
-93,탑 매니지먼트,현판,장우산,9.4,False,False,True,False,False
-94,악당 가족이 독립을 반대한다 [독점],로판,이흰,9.9,False,True,False,False,False
-95,수비천재가 3점을 폭격함,현판,코다,9.4,False,False,True,False,False
-96,방출당한 투수가 금강불괴로 돌아옴,현판,단팥빵소년,8.4,False,False,True,False,False
-97,천재 흑마법사,판타지,노란커피,9.9,False,False,False,True,False
-98,상남자 [독점],현판,김태궁,9.6,False,False,True,False,False
-99,괴물 천재선수들이 날 너무 좋아함,현판,혜인태,9.7,False,False,True,False,False
-100,전리품 공작부인 [독점],로판,레몬개구리,9.6,False,True,False,False,False
+67,재벌을 넘어 귀족으로,현판,푸달,8.9,False,False,True,False,False
+68,"언니, 이번 생엔 내가 왕비야 [독점]",로판,레팔진프,7.5,False,True,False,False,False
+69,"6,421번 빙의하고 귀환했다 [독점]",현판,B군,8.7,False,False,True,False,False
+70,사랑하는 나의 억압자 [독점],로판,서사희,9.9,False,True,False,False,False
+71,당문전,무협,제이허빈,9.4,True,False,False,False,False
+72,천화서고 대공자 [독점],무협,김현영,9.7,True,False,False,False,False
+73,기획재정부 [독점],현판,현우,9.5,False,False,True,False,False
+74,칼라디아의 늑대 [독점],판타지,시연우,8.9,False,False,False,True,False
+75,은퇴한 초인의 슬로우라이프,판타지,ROHRAN노란,9.7,False,False,False,True,False
+76,두 번째 집착 [독점],로맨스,강춘,9.9,False,False,False,False,True
+77,천마육성 시뮬레이션 [독점],무협,조형근,8.9,True,False,False,False,False
+78,응급 맞선,로맨스,강영주,9.8,False,False,False,False,True
+79,탑 매니지먼트,현판,장우산,9.4,False,False,True,False,False
+80,짙게 각인된 밤 [독점],로맨스,임여리,9.6,False,False,False,False,True
+81,귀농했더니 국가급 거물 후배들이 몰려든다,판타지,아길론,9.5,False,False,False,True,False
+82,수비천재가 3점을 폭격함,현판,코다,9.4,False,False,True,False,False
+83,나의 조선에 유교는 필요없다,판타지,정동갑제,9.1,False,False,False,True,False
+84,천재 흑마법사,판타지,노란커피,9.9,False,False,False,True,False
+85,제국 경비대의 망나니 소드마스터,판타지,사탕꽃,9.3,False,False,False,True,False
+86,달아나지 않도록 더 세게 [독점],로판,도토리,9.7,False,True,False,False,False
+87,겨우 강해졌는데 회귀해버림,현판,수국칼,8.6,False,False,True,False,False
+88,블랙배저 [독점],판타지,썬터다운,9.9,False,False,False,True,False
+89,스위트룸 [독점],로맨스,고슬밥,10.0,False,False,False,False,True
+90,로또부터 장군까지,현판,게르만,9.6,False,False,True,False,False
+91,회귀자의 성공 투자법 [독점],현판,박성호,8.4,False,False,True,False,False
+92,바스티안 [독점] [에디티드 버전],로판,솔체,9.5,False,True,False,False,False
+93,서부로 간 검은머리 용병,판타지,노오력.,9.6,False,False,False,True,False
+94,황금 귀의 프로듀서,현판,무적푸딩,9.9,False,False,True,False,False
+95,상남자 [독점],현판,김태궁,9.6,False,False,True,False,False
+96,천만년만에 귀환한 무신님,판타지,맛깔란,8.3,False,False,False,True,False
+97,죽은 신의 성기사 [독점],판타지,초매,9.8,False,False,False,True,False
+98,흔한 빙의물인 줄 알았다 [독점],로판,레몬개구리,9.1,False,True,False,False,False
+99,장씨세가 호위무사 [독점],무협,조형근,9.2,True,False,False,False,False
+100,내가 키운 S급들,판타지,근서,9.8,False,False,False,True,False

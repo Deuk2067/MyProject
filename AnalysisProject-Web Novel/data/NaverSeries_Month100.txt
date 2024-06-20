@@ -27,11 +27,11 @@
 26,낱장의 여름 [독점],로맨스,박영,9.5,False,False,False,True,False
 27,당신의 마지막은 나여야만 한다 [선공개],로판,조일구,9.6,False,False,False,False,True
 28,광마회귀 [독점],무협,유진성,9.9,True,False,False,False,False
-29,제국 경비대의 망나니 소드마스터,판타지,사탕꽃,9.2,False,True,False,False,False
+29,제국 경비대의 망나니 소드마스터,판타지,사탕꽃,9.3,False,True,False,False,False
 30,당신의 구원을 바라지 않는다,로판,우제,9.7,False,False,False,False,True
 31,이번 생엔 내가 죽을게 [선공개],로판,진혜이,9.4,False,False,False,False,True
 32,일타강사 백사부 [독점],무협,간짜장,9.8,True,False,False,False,False
-33,실종된 성녀가 바로 나였다 [선공개],로판,라르메,8.4,False,False,False,False,True
+33,실종된 성녀가 바로 나였다 [선공개],로판,라르메,8.5,False,False,False,False,True
 34,재해급 암살자가 해방됐다 [독점],판타지,이등별,9.2,False,True,False,False,False
 35,별을 품은 소드마스터,판타지,Q10,9.8,False,True,False,False,False
 36,당문출사 [독점],무협,기혁,8.5,True,False,False,False,False
