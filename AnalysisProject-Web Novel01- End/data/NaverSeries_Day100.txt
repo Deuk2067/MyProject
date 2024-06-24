@@ -1,0 +1,101 @@
+,제목,장르,작가,평점,무협,현판,로판,로맨스,판타지
+1,화산귀환 [독점],무협,비가,9.2,True,False,False,False,False
+2,농어촌 에이스 [독점],현판,이블라인,9.6,False,True,False,False,False
+3,뒤바뀐 신부,로판,사라유,7.7,False,False,True,False,False
+4,임신한 척했는데 남편이 돌아왔다 [독점],로판,별별토,9.7,False,False,True,False,False
+5,적국의 황태자에게 납치당한 성녀입니다,로판,그고자자,9.0,False,False,True,False,False
+6,"고양이인데, 늑대 가문에 입양당했다? [독점]",로판,윤달(YounDal),9.5,False,False,True,False,False
+7,대기업 말단이 일을 잘함 [독점],현판,동면거북이,9.7,False,True,False,False,False
+8,환생천마,무협,장영훈,9.6,True,False,False,False,False
+9,차가운 재회 [선공개],로맨스,은세리,8.1,False,False,False,True,False
+10,날 닮은 아이 [독점],로맨스,플아다,9.9,False,False,False,True,False
+11,노 네임 러브,로맨스,스모어,9.9,False,False,False,True,False
+12,게임 속 바바리안으로 살아남기 [독점],판타지,정윤강,9.4,False,False,False,False,True
+13,던전을 그리는 화가 [독점],현판,취미글주의,9.9,False,True,False,False,False
+14,오늘만 사는 기사 [독점],판타지,소울풍,9.8,False,False,False,False,True
+15,하녀와의 계약결혼 [독점],로판,달새울,9.9,False,False,True,False,False
+16,절대회귀 [독점],무협,장영훈,9.8,True,False,False,False,False
+17,하남자의 탑 공략법,판타지,꾸찌꾸찌,9.3,False,False,False,False,True
+18,2레벨로 회귀한 무신,판타지,염비,9.4,False,False,False,False,True
+19,차라리 빌런으로 살겠다,현판,서인하,9.6,False,True,False,False,False
+20,사이코 [독점],로맨스,문정민,9.8,False,False,False,True,False
+21,전지적 독자 시점,현판,싱숑,9.9,False,True,False,False,False
+22,영업 천재가 되었다,현판,댄킴,9.9,False,True,False,False,False
+23,북부 대공의 미친 데릴사위,판타지,곰돌이는,9.7,False,False,False,False,True
+24,"교수님, 그 결혼 저랑 해요 [독점]",로맨스,루위,9.9,False,False,False,True,False
+25,회귀자 생활백서(回歸者 生活白書),무협,넉울히,9.2,True,False,False,False,False
+26,괴력 난신(怪力 亂神),무협,한중월야,9.7,True,False,False,False,False
+27,재벌집 만렙 아들,현판,오소록,9.6,False,True,False,False,False
+28,회귀한 공작가의 막내도련님은 암살자 [개정판],판타지,커피라임,9.3,False,False,False,False,True
+29,광룡이계전생 [독점],판타지,시준,8.8,False,False,False,False,True
+30,북부 대공,로판,투머치텐션,9.7,False,False,True,False,False
+31,독종의 연애 [독점],로맨스,플라비,9.4,False,False,False,True,False
+32,완벽한 청혼 [독점],로맨스,송민선,9.4,False,False,False,True,False
+33,파티에서 추방된 영웅이 너무 뛰어남 [독점],현판,블루클리프,8.7,False,True,False,False,False
+34,전생검신,무협,구로수번,9.5,True,False,False,False,False
+35,역대급 라이프 스타일,현판,에쮸드,8.3,False,True,False,False,False
+36,귀농했는데 아포칼립스 터졌다,판타지,버머랜드,8.4,False,False,False,False,True
+37,나 혼자 탑에서 농사,현판,sdcknight,9.8,False,True,False,False,False
+38,회귀수선전(回歸修仙傳),무협,엄청난,9.6,True,False,False,False,False
+39,아포칼립스에 집을 숨김,현판,로드워리어,9.5,False,True,False,False,False
+40,시장통 맛침명의 재벌처가 씹어먹다,현판,가프,9.1,False,True,False,False,False
+41,흙수저 작곡천재의 곡이 너무 잘 팔림,현판,주파,8.4,False,True,False,False,False
+42,EX급 창고를 얻었다,판타지,한손검,7.2,False,False,False,False,True
+43,내가 죽은 후 남주들이 이상해졌다 [독점],로판,꿀끼,9.4,False,False,True,False,False
+44,고인물의 스킬이 너무 화려하다,판타지,광산김가,9.1,False,False,False,False,True
+45,천재 무림 트레이너 [독점],무협,크루크루,9.2,True,False,False,False,False
+46,버려진 황자로 편하게 사는 법 [독점],판타지,오프신,9.5,False,False,False,False,True
+47,마도전생기 [독점],무협,codezero,9.2,True,False,False,False,False
+48,게임 속 검술천재가 되었다 [독점],판타지,진서한,9.1,False,False,False,False,True
+49,사랑하는 나의 억압자 [독점],로판,서사희,9.9,False,False,True,False,False
+50,제국 경비대의 망나니 소드마스터,판타지,사탕꽃,9.3,False,False,False,False,True
+51,기프티드 (GIFTED),현판,도서관식객,9.6,False,True,False,False,False
+52,괴물 음악천재가 되어 돌아왔다,현판,츠로프,9.4,False,True,False,False,False
+53,디펜스 게임의 폭군이 되었다 [독점],판타지,류은가람,9.8,False,False,False,False,True
+54,탑아이돌의 막내 멤버가 되었다 [독점],현판,강서울,9.9,False,True,False,False,False
+55,살아남은 왕녀의 웃음 뒤에는 [선공개],로판,아미드,9.9,False,False,True,False,False
+56,일타강사 백사부 [독점],무협,간짜장,9.8,True,False,False,False,False
+57,광마회귀 [독점],무협,유진성,9.9,True,False,False,False,False
+58,마교 교주의 부군이 되었다 [독점],무협,쥬레이,9.4,True,False,False,False,False
+59,"언니, 이번 생엔 내가 왕비야 [독점]",로판,레팔진프,7.5,False,False,True,False,False
+60,흑마법사는 이렇게 생존합니다 [독점],현판,진대협,8.7,False,True,False,False,False
+61,의사가 음악을 너무 잘함,현판,세끝,8.6,False,True,False,False,False
+62,사랑은 없는 것처럼 [외전 추가][독점],로맨스,carbo(도효원),9.7,False,False,False,True,False
+63,레벨업 하는 로그,판타지,글쟁이라떼,9.6,False,False,False,False,True
+64,파혼 후 역대급 투자 천재,현판,단골손놈,7.6,False,True,False,False,False
+65,블랙기업조선,판타지,국뽕,9.6,False,False,False,False,True
+66,1500억을 받았다,현판,먼지운,7.8,False,True,False,False,False
+67,천화서고 대공자 [독점],무협,김현영,9.7,True,False,False,False,False
+68,근력 만렙 중세인,판타지,련습,9.0,False,False,False,False,True
+69,짜장 한 그릇에 제갈세가 데릴사위,무협,에르훗,9.6,True,False,False,False,False
+70,천재의 신들린 게임방송 [독점],현판,믿고보는,9.8,False,True,False,False,False
+71,달아나지 않도록 더 세게 [독점],로판,도토리,9.8,False,False,True,False,False
+72,재벌의 품격 [독점],현판,서인하,9.5,False,True,False,False,False
+73,김 대리는 아이돌이 싫어 [독점],현판,퇴사연습생,9.9,False,True,False,False,False
+74,죽었는데 왜 집착하세요 [독점],로판,한윤설,9.3,False,False,True,False,False
+75,시한부 천재가 살아남는 법,무협,청시소,9.6,True,False,False,False,False
+76,운명을 보는 회사원,현판,영완(映完),9.8,False,True,False,False,False
+77,못 잡아먹어서 안달 [독점],로맨스,플아다,9.9,False,False,False,True,False
+78,사랑이 아닐지라도 [독점],로맨스,차해솔,9.2,False,False,False,True,False
+79,"울어 봐, 빌어도 좋고 [독점]",로판,솔체,9.7,False,False,True,False,False
+80,약먹는 천재마법사,판타지,글근육,9.9,False,False,False,False,True
+81,바스티안 [독점] [에디티드 버전],로판,솔체,9.5,False,False,True,False,False
+82,낱장의 여름 [독점],로맨스,박영,9.5,False,False,False,True,False
+83,천마신교 최강 막내제자 [독점],무협,리진,8.5,True,False,False,False,False
+84,A.I. 닥터 [독점],현판,한산이가,9.8,False,True,False,False,False
+85,눈먼 짐승의 목줄을 쥐었다 [독점],로판,카예,9.1,False,False,True,False,False
+86,환생한 음악천재가 재능을 못 숨김,현판,아몬드빵,9.1,False,True,False,False,False
+87,사천당가의 검신급 소가주가 되었다,무협,화계火鷄,7.5,True,False,False,False,False
+88,예술병 영화감독이 돌아왔다 [시즌1-2][미니노블],현판,이하루비,9.3,False,True,False,False,False
+89,뒷결혼 [독점],로맨스,김노라,9.5,False,False,False,True,False
+90,당문전,무협,제이허빈,9.4,True,False,False,False,False
+91,문제적 왕자님 [독점],로판,솔체,9.8,False,False,True,False,False
+92,할배무사와 지존 손녀 [독점],무협,일향(一向),9.7,True,False,False,False,False
+93,두 번째 집착 [독점],로맨스,강춘,9.9,False,False,False,True,False
+94,괴물 천재선수들이 날 너무 좋아함,현판,혜인태,9.7,False,True,False,False,False
+95,스위트룸 [독점],로맨스,고슬밥,9.9,False,False,False,True,False
+96,별을 품은 소드마스터,판타지,Q10,9.8,False,False,False,False,True
+97,은퇴한 초인의 슬로우라이프,판타지,ROHRAN노란,9.7,False,False,False,False,True
+98,재벌을 넘어 귀족으로,현판,푸달,9.2,False,True,False,False,False
+99,변경의 죄수는 검성을 꿈꾼다,판타지,Cadilet,9.6,False,False,False,False,True
+100,절대 검감(絶對 劍感) [외전포함],무협,한중월야,9.4,True,False,False,False,False

@@ -7,7 +7,7 @@
 6,전지적 독자 시점,현판,싱숑,9.9,False,False,True,False,False
 7,북부 대공의 미친 데릴사위,판타지,곰돌이는,9.7,False,True,False,False,False
 8,재벌집 만렙 아들,현판,오소록,9.6,False,False,True,False,False
-9,전직용병 재벌서자 [독점],현판,꾼밤,9.1,False,False,True,False,False
+9,전직용병 재벌서자 [독점],현판,꾼밤,9.2,False,False,True,False,False
 10,날 닮은 아이 [독점],로맨스,플아다,9.9,False,False,False,True,False
 11,나 혼자 탑에서 농사,현판,sdcknight,9.8,False,False,True,False,False
 12,화학천재의 비밀 투자 공식,현판,율려(律呂),9.5,False,False,True,False,False
@@ -73,7 +73,7 @@
 72,첩자의 마교생활 [독점],무협,대은호,9.5,True,False,False,False,False
 73,탑아이돌의 막내 멤버가 되었다 [독점],현판,강서울,9.9,False,False,True,False,False
 74,전무님은 하룻밤이 부족하다 [독점],로맨스,한여름이었다,9.7,False,False,False,True,False
-75,현질로 S급 소드마스터,판타지,놋버,7.7,False,True,False,False,False
+75,현질로 S급 소드마스터,판타지,놋버,7.8,False,True,False,False,False
 76,못 잡아먹어서 안달 [독점],로맨스,플아다,9.9,False,False,False,True,False
 77,완전무결한 공작님께 [독점],로판,이현성,9.8,False,False,False,False,True
 78,블랙기업조선,판타지,국뽕,9.6,False,True,False,False,False
